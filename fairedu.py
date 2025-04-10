@@ -21,7 +21,6 @@ from sklearn.metrics import r2_score
 import statsmodels.api as sm
 import copy
 
-
 # dataset_name = sys.argv[1]
 dataset_name = 'student_performance'  # student_dropout, student_oulad student_performance
 dataset_folder = '/home/ad/m4do/proj/fairedu_plus/original_dataset'
@@ -29,7 +28,6 @@ dataset_folder = '/home/ad/m4do/proj/fairedu_plus/original_dataset'
 np.random.seed(13)
 train_dataset_path = os.path.join(dataset_folder, dataset_name, 'ctgan_no_8files', 'merged_output.csv')
 test_dataset_path = os.path.join(dataset_folder, dataset_name, f'test_{dataset_name}.csv')
-
 
 if 'adult' in train_dataset_path:
     dataset_orig = pd.read_csv(train_dataset_path)
@@ -289,19 +287,19 @@ elif dataset_name == 'student_academic_performance':
     dataset_orig = pd.DataFrame(scaler.fit_transform(dataset_orig), columns=dataset_orig.columns)
 
     protected_attributes = ['gender', 'NationalITy']
-elif dataset_name == 'dnu':
+elif dataset_name == 'DNU':
     # Load dataset
     # dataset_orig = pd.read_csv('../datasets/DNU.csv')
-    dataset_orig = pd.read_csv(os.path.join(dataset_path, 'DNU_merged.csv'))
-
-    dataset_orig = dataset_orig.drop(['adv_score'], axis=1)
-    # Change Column values
-    dataset_orig['gender'] = np.where(dataset_orig['gender'] == 'Male', 1, 0)
+    dataset_orig_train = pd.read_csv(train_dataset_path)
+    dataset_orig_test = pd.read_csv(test_dataset_path)
 
     from sklearn.preprocessing import MinMaxScaler
 
     scaler = MinMaxScaler()
-    dataset_orig = pd.DataFrame(scaler.fit_transform(dataset_orig), columns=dataset_orig.columns)
+
+    dataset_orig_train = pd.DataFrame(scaler.fit_transform(dataset_orig_train), columns=dataset_orig_train.columns)
+    dataset_orig_test = pd.DataFrame(scaler.fit_transform(dataset_orig_test), columns=dataset_orig_test.columns)
+
     protected_attributes = ['gender', 'age', 'birthplace']
 
 if __name__ == '__main__':

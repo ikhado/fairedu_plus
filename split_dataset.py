@@ -30,43 +30,70 @@ def split_train_test_csv_file(data_frame, train_file, test_file, train_frac=0.85
     return train_df, test_df
 
 
-def split_into_8_files(data_frame, folder_path, sensitive_column_1='sex',
-                       sensitive_column_2='health',
+def split_into_k_files(data_frame, folder_path, sensitive_column_1='sex',
+                       sensitive_column_2='health', sensitive_column_3=None,
                        output_column='Probability', save_file=True):
     """
-    Split the dataset into 8 files and return a list of dictionaries with file names and their lengths
+    Split the dataset based on sensitive columns and return a list of dictionaries with file info
     
     :param data_frame: data loaded from csv file
-    :param folder_path: folder to save 8 csv files
-    :return: list of dictionaries, each containing 'file_name' and 'length' keys
+    :param folder_path: folder to save csv files
+    :param sensitive_column_1: first sensitive column to split on
+    :param sensitive_column_2: second sensitive column to split on
+    :param sensitive_column_3: optional third sensitive column to split on
+    :param output_column: column with output probabilities
+    :param save_file: whether to save the files to disk
+    :return: list of dictionaries, each containing file info and length
     """
 
     result_files = []
     for sensitive_1_i in data_frame[sensitive_column_1].unique():
         for sensitive_2_i in data_frame[sensitive_column_2].unique():
-            for prob in data_frame[output_column].unique():
-                # Create a subset for the specific group
-                subset = data_frame[
-                    (data_frame[sensitive_column_1] == sensitive_1_i) & (data_frame[sensitive_column_2] == sensitive_2_i) & (
-                            data_frame[output_column] == prob)]
+            # Handle optional third sensitive column
+            if sensitive_column_3:
+                sensitive_3_values = data_frame[sensitive_column_3].unique()
+            else:
+                sensitive_3_values = [None]
+                
+            for sensitive_3_i in sensitive_3_values:
+                for prob in data_frame[output_column].unique():
+                    # Create subset filters
+                    filters = (data_frame[sensitive_column_1] == sensitive_1_i) & \
+                              (data_frame[sensitive_column_2] == sensitive_2_i) & \
+                              (data_frame[output_column] == prob)
+                    
+                    # Add third column filter if it exists
+                    if sensitive_column_3:
+                        filters = filters & (data_frame[sensitive_column_3] == sensitive_3_i)
+                        
+                    # Create a subset for the specific group
+                    subset = data_frame[filters]
 
-                # Create a file name, replacing special characters for safety
-                file_name = f"{sensitive_column_1}_{sensitive_1_i}_{sensitive_column_2}_{sensitive_2_i}_{output_column}_{prob}.csv"
+                    # Create a file name
+                    if sensitive_column_3:
+                        file_name = f"{sensitive_column_1}_{sensitive_1_i}_{sensitive_column_2}_{sensitive_2_i}_{sensitive_column_3}_{sensitive_3_i}_{output_column}_{prob}.csv"
+                    else:
+                        file_name = f"{sensitive_column_1}_{sensitive_1_i}_{sensitive_column_2}_{sensitive_2_i}_{output_column}_{prob}.csv"
 
-                # Save the subset to a CSV file (without the DataFrame index)
-                if save_file:
-                    subset.to_csv(os.path.join(folder_path, file_name), index=False)
+                    # Save the subset to a CSV file
+                    if save_file:
+                        subset.to_csv(os.path.join(folder_path, file_name), index=False)
 
-                # Create a dictionary with file info and append to result list
-                file_info = {
-                    'file_name': file_name,
-                    'length': len(subset),
-                    sensitive_column_1: sensitive_1_i,
-                    sensitive_column_2: sensitive_2_i,
-                    output_column: prob
-                }
-                result_files.append(file_info)
-                print(f"Saved {file_name} with {len(subset)} rows")
+                    # Create a dictionary with file info
+                    file_info = {
+                        'file_name': file_name,
+                        'length': len(subset),
+                        sensitive_column_1: sensitive_1_i,
+                        sensitive_column_2: sensitive_2_i,
+                        output_column: prob
+                    }
+                    
+                    # Add third column info if it exists
+                    if sensitive_column_3:
+                        file_info[sensitive_column_3] = sensitive_3_i
+                        
+                    result_files.append(file_info)
+                    print(f"Saved {file_name} with {len(subset)} rows")
 
     return result_files
 
