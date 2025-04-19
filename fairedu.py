@@ -22,11 +22,11 @@ import statsmodels.api as sm
 import copy
 
 # dataset_name = sys.argv[1]
-dataset_name = 'student_performance'  # student_dropout, student_oulad student_performance
+dataset_name = 'student_oulad'  # student_dropout, student_oulad student_performance
 dataset_folder = '/home/ad/m4do/proj/fairedu_plus/original_dataset'
 
 np.random.seed(13)
-train_dataset_path = os.path.join(dataset_folder, dataset_name, 'ctgan_no_8files', 'merged_output.csv')
+train_dataset_path = os.path.join(dataset_folder, dataset_name, 'llm_no_8files', 'merged_output.csv') # ctgan_no_8files
 test_dataset_path = os.path.join(dataset_folder, dataset_name, f'test_{dataset_name}.csv')
 
 if 'adult' in train_dataset_path:
@@ -97,6 +97,8 @@ elif 'student_oulad' in train_dataset_path:
     # Load dataset
     dataset_orig_train = pd.read_csv(train_dataset_path)
     dataset_orig_test = pd.read_csv(test_dataset_path)
+
+    dataset_orig_train = dataset_orig_train.dropna()
 
     # Drop NULL values
     # dataset_orig = dataset_orig.dropna(axis=0, how='any')
