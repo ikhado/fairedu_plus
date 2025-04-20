@@ -42,7 +42,7 @@ def generate_by_llm(real_data, num_rows):
 
 def generate_sdg(file_dict, path_8_files, generator=CONSTANT_LLM, sensitive_column_1='sex',
                  sensitive_column_2='health', sensitive_column_3=None,
-                 output_column='Probability'):
+                 output_column='Probability', is_run_splitt_file=True):
     for curr_file in file_dict:
         path = curr_file['file_name']
         expected_value = curr_file['expected_value']
@@ -53,7 +53,7 @@ def generate_sdg(file_dict, path_8_files, generator=CONSTANT_LLM, sensitive_colu
         print(f"File: {path}")
         print(f"Length: {len(current_df)}")
 
-        if 'ctgan_no_8files' not in path_8_files:
+        if is_run_splitt_file:
             sex_value = current_df[sensitive_column_1].unique()[0]
             health_value = current_df[sensitive_column_2].unique()[0]
             prob_value = current_df[output_column].unique()[0]
@@ -67,7 +67,7 @@ def generate_sdg(file_dict, path_8_files, generator=CONSTANT_LLM, sensitive_colu
 
         if sampled_data is None:
             continue
-        if 'ctgan_no_8files' not in path_8_files:
+        if is_run_splitt_file:
             sampled_data[sensitive_column_1] = sex_value
             sampled_data[sensitive_column_2] = health_value
             sampled_data[output_column] = prob_value
@@ -77,7 +77,7 @@ def generate_sdg(file_dict, path_8_files, generator=CONSTANT_LLM, sensitive_colu
 
 
 if __name__ == "__main__":
-    dataset_name = 'student_oulad'  # student_dropout, student_oulad student_performance
+    dataset_name = 'student_performance'  # student_dropout, student_oulad student_performance
     original_dataset_path = './original_dataset'
     generated_dataset_path = './generated_dataset'
     generator = CONSTANT_LLM
@@ -87,7 +87,7 @@ if __name__ == "__main__":
         path_to_no_8_files = os.path.join(original_dataset_path, dataset_name, 'llm_no_8files')
     elif generator == CONSTANT_CTGAN:
         path_to_8_files = os.path.join(original_dataset_path, dataset_name, '8_files')
-        path_to_no_8_files = os.path.join(original_dataset_path, dataset_name, 'llm_no_8files')
+        path_to_no_8_files = os.path.join(original_dataset_path, dataset_name, 'ctgan_no_8files')
 
     is_run_splitt_file = False
 
@@ -139,14 +139,14 @@ if __name__ == "__main__":
         output_column = 'Probability'
 
         data_infor_dict = [
-            {"file_name": "Gender_1_Debtor_0_Probability_1.csv", "expected_value": 2628},
-            {"file_name": "Gender_1_Debtor_0_Probability_0.csv", "expected_value": 3869},
-            {"file_name": "Gender_1_Debtor_1_Probability_1.csv", "expected_value": 120},
-            {"file_name": "Gender_1_Debtor_1_Probability_0.csv", "expected_value": 177},
-            {"file_name": "Gender_0_Debtor_0_Probability_1.csv", "expected_value": 8028},
-            {"file_name": "Gender_0_Debtor_0_Probability_0.csv", "expected_value": 11818},
-            {"file_name": "Gender_0_Debtor_1_Probability_1.csv", "expected_value": 426},
-            {"file_name": "Gender_0_Debtor_1_Probability_0.csv", "expected_value": 627},
+            {"file_name": "Gender_1_Debtor_0_Probability_1.csv", "expected_value": 2440},
+            {"file_name": "Gender_1_Debtor_0_Probability_0.csv", "expected_value": 3592},
+            {"file_name": "Gender_1_Debtor_1_Probability_1.csv", "expected_value": 111},
+            {"file_name": "Gender_1_Debtor_1_Probability_0.csv", "expected_value": 164},
+            {"file_name": "Gender_0_Debtor_0_Probability_1.csv", "expected_value": 7453},
+            {"file_name": "Gender_0_Debtor_0_Probability_0.csv", "expected_value": 10972},
+            {"file_name": "Gender_0_Debtor_1_Probability_1.csv", "expected_value": 395},
+            {"file_name": "Gender_0_Debtor_1_Probability_0.csv", "expected_value": 582},
         ]
 
         if not is_run_splitt_file:
@@ -158,13 +158,13 @@ if __name__ == "__main__":
     if is_run_splitt_file:
         generate_sdg(file_dict=data_infor_dict, path_8_files=path_to_8_files, generator=generator,
                      sensitive_column_1=sensitive_columns[0], sensitive_column_2=sensitive_columns[1],
-                     output_column=output_column)
+                     output_column=output_column, is_run_splitt_file=is_run_splitt_file)
 
         # merge all files within path_to_8_files folder into "merged_output.csv" file
         merge_csv_files(folder_path=path_to_8_files, output_file="merged_output.csv")
     else:
         generate_sdg(file_dict=data_infor_dict, path_8_files=path_to_no_8_files, generator=generator,
                      sensitive_column_1=sensitive_columns[0], sensitive_column_2=sensitive_columns[1],
-                     output_column=output_column)
+                     output_column=output_column, is_run_splitt_file=is_run_splitt_file)
         # merge all files within path_to_8_files folder into "merged_output.csv" file
         merge_csv_files(folder_path=path_to_no_8_files, output_file="merged_output.csv")
