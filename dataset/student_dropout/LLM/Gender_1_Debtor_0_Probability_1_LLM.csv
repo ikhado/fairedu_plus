@@ -1,0 +1,790 @@
+Marital status,Application mode,Application order,Course,Daytime/evening attendance,Previous qualification,Nacionality,Mother's qualification,Father's qualification,Mother's occupation,Father's occupation,Displaced,Educational special needs,Tuition fees up to date,Scholarship holder,Age at enrollment,International,Curricular units 1st sem (credited),Curricular units 1st sem (enrolled),Curricular units 1st sem (evaluations),Curricular units 1st sem (approved),Curricular units 1st sem (grade),Curricular units 1st sem (without evaluations),Curricular units 2nd sem (credited),Curricular units 2nd sem (enrolled),Curricular units 2nd sem (evaluations),Curricular units 2nd sem (approved),Curricular units 2nd sem (grade),Curricular units 2nd sem (without evaluations),Unemployment rate,Inflation rate,GDP,Gender,Debtor,Probability
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Lawyer,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,3%,2%,5%,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Chef,Architect,No,No,Yes,No,24,No,,,,,,,,,,,,,2%,1%,6%,1,0,1
+Divorced,Hybrid,3,Education,Evening,High School diploma,,Associate's degree,High School diploma,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,1%,2%,7%,1,0,1
+Single,Online,1,Medicine,Daytime,PhD,,Master's degree,PhD,Scientist,Professor,No,No,Yes,No,30,No,,,,,,,,,,,,,7%,3%,8%,1,0,1
+Married,In-person,2,Law,Evening,Bachelor's degree,,PhD,Master's degree,Lawyer,Judge,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,6%,2%,9%,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Associate's degree,,Bachelor's degree,Bachelor's degree,Engineer,Architect,No,No,Yes,No,23,No,,,,,,,,,,,,,5%,1%,10%,1,0,1
+Single,Online,1,Sociology,Evening,Master's degree,,High School diploma,Bachelor's degree,Nurse,Doctor,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,8%,4%,11%,1,0,1
+Married,In-person,2,History,Daytime,Bachelor's degree,,PhD,Master's degree,Professor,Scientist,No,No,Yes,No,26,No,,,,,,,,,,,,,7%,3%,12%,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,High School diploma,,Associate's degree,High School diploma,Biologist,Veterinarian,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,9%,5%,13%,1,0,1
+Single,Online,1,Mathematics,Daytime,PhD,,Master's degree,PhD,Engineer,Professor,No,No,Yes,No,32,No,,,,,,,,,,,,,10%,6%,14%,1,0,1
+Married,In-person,2,Physics,Evening,Bachelor's degree,,High School diploma,Bachelor's degree,Nurse,Doctor,Yes,Yes,No,Yes,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,High School Diploma,,Bachelor's Degree,Master's Degree,Teacher,Engineer,No,No,Yes,No,18,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,Associate's Degree,,High School Diploma,Bachelor's Degree,Nurse,Accountant,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Bachelor's Degree,,Master's Degree,Doctorate Degree,Lawyer,Professor,No,No,Yes,No,25,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,High School Diploma,,Associate's Degree,Bachelor's Degree,Chef,Architect,Yes,Yes,No,Yes,20,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Engineering,Daytime,Bachelor's Degree,,Doctorate Degree,Master's Degree,Scientist,Lawyer,No,No,Yes,No,23,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Economics,Evening,Master's Degree,,High School Diploma,Bachelor's Degree,Artist,Musician,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,0.5%,7%,$45,1,0,1
+Single,Online,1,Education,Daytime,High School Diploma,,Bachelor's Degree,Master's Degree,Engineer,Doctor,No,No,Yes,No,21,No,,,,,,,,,,,,,0.2%,8%,$50,1,0,1
+Married,In-person,2,Sociology,Evening,Associate's Degree,,High School Diploma,Bachelor's Degree,Accountant,Professor,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,0.1%,9%,$55,1,0,1
+Divorced,Hybrid,3,Political Science,Daytime,Bachelor's Degree,,Master's Degree,Doctorate Degree,Lawyer,Scientist,No,No,Yes,No,26,No,,,,,,,,,,,,,0.05%,10%,$60,1,0,1
+Single,Online,1,Fine Arts,Evening,High School Diploma,,Associate's Degree,Bachelor's Degree,Musician,Artist,Yes,Yes,No,Yes,19,Yes,,,,,,,,,,,,,0.02%,11%,$65,1,0,1
+Married,In-person,2,History,Daytime,Bachelor's Degree,,Doctorate Degree,Master's Degree,Professor,Engineer,No,No,Yes,No,22,No,,,,,,,,,,,,,0.01%,12%,$70,1,0,1
+Divorced,Hybrid,3,Linguistics,Evening,Master's Degree,,High School Diploma,Bachelor's Degree,Musician,Artist,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,0.005%,13%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,High School Diploma,,Bachelor's Degree,Master's Degree,Accountant,Lawyer,No,No,Yes,No,20,No,,,,,,,,,,,,,0.002%,14%,$80,1,0,1
+Married,In-person,2,Physics,Evening,Associate's Degree,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Professor,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In person,2,Economics,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Business owner,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High school diploma,,Associate's degree,Associate's degree,Artist,Chef,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Education,Daytime,Bachelor's degree,,Master's degree,PhD,Scientist,Professor,No,No,Yes,No,23,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In person,2,Marketing,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Architect,Pilot,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,History,Daytime,Associate's degree,,High school diploma,High school diploma,Librarian,Firefighter,No,No,Yes,No,21,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Psychologist,Dentist,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,5%,2%,$65,1,0,1
+Married,In person,2,Communication,Daytime,Bachelor's degree,,Master's degree,PhD,Journalist,Politician,No,No,Yes,No,30,No,,,,,,,,,,,,,4%,3%,$70,1,0,1
+Divorced,Hybrid,3,Linguistics,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Social worker,Electrician,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,3%,4%,$75,1,0,1
+Single,Online,1,Music,Daytime,Bachelor's degree,,Master's degree,PhD,Dancer,Musician,No,No,Yes,No,27,No,,,,,,,,,,,,,2%,5%,$80,1,0,1
+Married,In person,2,Art,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Fashion designer,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Accountant,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,7%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Professor,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,8%,3%,$30,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Lawyer,Accountant,No,No,Yes,No,30,No,,,,,,,,,,,,,6%,2.5%,$28,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,High School diploma,Police officer,Nurse,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,7%,3%,$24,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Bachelor's degree,Master's degree,Teacher,Professor,No,No,Yes,No,24,No,,,,,,,,,,,,,5%,2%,$23,1,0,1
+Married,In-person,2,History,Evening,Associate's degree,,Master's degree,PhD,Writer,Artist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,6%,2.5%,$27,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,High School diploma,,PhD,Bachelor's degree,Scientist,Engineer,No,No,Yes,No,23,No,,,,,,,,,,,,,7%,3%,$26,1,0,1
+Single,Online,1,Environmental Science,Evening,Bachelor's degree,,Master's degree,PhD,Biologist,Chemist,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,8%,3%,$32,1,0,1
+Married,In-person,2,Mathematics,Daytime,PhD,,Associate's degree,Bachelor's degree,Mathematician,Statistician,No,No,Yes,No,31,No,,,,,,,,,,,,,6%,2.5%,$29,1,0,1
+Divorced,Hybrid,3,Physics,Evening,Bachelor's degree,,High School diploma,High School diploma,Astronomer,Physicist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,7%,3%,$28,1,0,1
+Single,Online,1,Art History,Daytime,High School diploma,,Bachelor's degree,Master's degree,Art historian,Archaeologist,No,No,Yes,No,25,No,,,,,,,,,,,,,5%,2%,$24,1,0,1
+Married,In-person,2,Anthropology,Evening,Associate's degree,,Master's degree,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,2.5%,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,4%,3%,3%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,25,No,,,,,,,,,,,,,3%,4%,3.5%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,PhD,Scientist,Lawyer,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,2%,5%,4%,1,0,1
+Married,In-person,2,Engineering,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Chef,Architect,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,3%,3.5%,1,0,1
+Divorced,Hybrid,3,Economics,Evening,High school diploma,,Bachelor's degree,Master's degree,Accountant,Businessman,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,3%,4%,3.5%,1,0,1
+Single,Online,1,Medicine,Daytime,PhD,,Master's degree,PhD,Lawyer,Doctor,No,No,Yes,No,26,No,,,,,,,,,,,,,2%,5%,4%,1,0,1
+Married,In-person,2,Law,Evening,Bachelor's degree,,High school diploma,Bachelor's degree,Police officer,Lawyer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,1%,6%,4.5%,1,0,1
+Divorced,Hybrid,3,Education,Daytime,Associate's degree,,High school diploma,High school diploma,Teacher,Engineer,No,No,Yes,No,28,No,,,,,,,,,,,,,2%,5%,4%,1,0,1
+Single,Online,1,Sociology,Evening,Master's degree,,PhD,PhD,Scientist,Professor,Yes,Yes,No,Yes,30,Yes,,,,,,,,,,,,,1%,6%,4.5%,1,0,1
+Married,In-person,2,History,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Nurse,Architect,No,No,Yes,No,29,No,,,,,,,,,,,,,0%,7%,5%,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,High school diploma,,Bachelor's degree,Master's degree,Accountant,Businessman,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,0%,8%,5.5%,1,0,1
+Single,Online,1,Mathematics,Daytime,PhD,,Master's degree,PhD,Lawyer,Doctor,No,No,Yes,No,35,No,,,,,,,,,,,,,1%,7%,5%,1,0,1
+Married,In-person,2,Physics,Evening,Bachelor's degree,,High school diploma,Bachelor's degree,Police officer,Engineer,Yes,Yes,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,No,Yes,Yes,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,Yes,No,No,No,30,No,,,,,,,,,,,,,6%,1%,$18,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,No,Yes,Yes,Yes,22,Yes,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,28,No,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,High School diploma,Artist,Musician,Yes,Yes,No,No,32,Yes,,,,,,,,,,,,,4%,3%,$28,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Associate's degree,Bachelor's degree,Librarian,Architect,No,No,Yes,Yes,24,No,,,,,,,,,,,,,6%,1%,$22,1,0,1
+Married,In-person,2,History,Evening,Master's degree,,PhD,Master's degree,Psychologist,Social worker,No,Yes,Yes,Yes,26,Yes,,,,,,,,,,,,,3%,4%,$32,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Associate's degree,,Bachelor's degree,Bachelor's degree,Engineer,Doctor,Yes,No,No,No,29,No,,,,,,,,,,,,,2%,5%,$38,1,0,1
+Single,Online,1,Mathematics,Evening,PhD,,Master's degree,PhD,Scientist,Engineer,No,Yes,Yes,Yes,23,Yes,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Married,In-person,2,Physics,Daytime,Bachelor's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,27,No,,,,,,,,,,,,,5%,2%,$45,1,0,1
+Divorced,Hybrid,3,Chemistry,Evening,Master's degree,,PhD,Master's degree,Lawyer,Professor,Yes,Yes,No,No,31,Yes,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Single,Online,1,Biology,Daytime,High School diploma,,Associate's degree,Bachelor's degree,Librarian,Architect,No,No,Yes,Yes,25,No,,,,,,,,,,,,,4%,3%,$48,1,0,1
+Married,In-person,2,Linguistics,Evening,PhD,,Bachelor's degree,Master's degree,Psychologist,Social worker,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Lawyer,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,7%,4%,1%,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Professor,Scientist,No,No,Yes,No,28,No,,,,,,,,,,,,,5%,3%,2%,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,High School diploma,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,6%,4%,3%,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Associate's degree,Associate's degree,Social worker,Firefighter,No,No,Yes,No,23,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Married,In-person,2,History,Evening,Bachelor's degree,,Master's degree,PhD,Psychologist,Lawyer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5%,3%,2%,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Associate's degree,,High School diploma,High School diploma,Librarian,Chef,No,No,Yes,No,21,No,,,,,,,,,,,,,3%,1%,5%,1,0,1
+Single,Online,1,Environmental Science,Evening,PhD,,PhD,Master's degree,Biologist,Architect,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,8%,5%,0%,1,0,1
+Married,In-person,2,Political Science,Daytime,Bachelor's degree,,Bachelor's degree,Bachelor's degree,Economist,Banker,No,No,Yes,No,30,No,,,,,,,,,,,,,7%,4%,1%,1,0,1
+Divorced,Hybrid,3,Anthropology,Evening,High School diploma,,Associate's degree,Associate's degree,Veterinarian,Pilot,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Single,Online,1,Mathematics,Daytime,Bachelor's degree,,Master's degree,PhD,Scientist,Professor,No,No,Yes,No,26,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Physics,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Engineer,Doctor,Yes,Yes,No,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,7%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,8%,3.5%,$18,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Chef,Lawyer,No,No,Yes,No,27,No,,,,,,,,,,,,,6%,2.8%,$23,1,0,1
+Divorced,Hybrid,3,Education,Evening,High School diploma,,Associate's degree,High School diploma,Artist,Carpenter,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,7%,3%,$20,1,0,1
+Single,Online,1,Medicine,Daytime,PhD,,Master's degree,PhD,Lawyer,Scientist,No,No,Yes,No,24,No,,,,,,,,,,,,,5%,2.2%,$21,1,0,1
+Married,In-person,2,Law,Evening,Bachelor's degree,,PhD,Master's degree,Doctor,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,8%,3.2%,$24,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Associate's degree,,High School diploma,Bachelor's degree,Nurse,Teacher,No,No,Yes,No,31,No,,,,,,,,,,,,,6%,2.7%,$19,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,7%,3%,$20,1,0,1
+Married,In-person,2,Marketing,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Accountant,Lawyer,No,No,Yes,No,26,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Divorced,Hybrid,3,History,Evening,High School diploma,,Associate's degree,High School diploma,Teacher,Police officer,Yes,Yes,No,Yes,33,Yes,,,,,,,,,,,,,7%,2.8%,$23,1,0,1
+Single,Online,1,Environmental Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,21,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Public Health,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Chef,Lawyer,No,No,Yes,No,26,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Education,Evening,High School diploma,,Bachelor's degree,Associate's degree,Artist,Musician,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Medicine,Daytime,PhD,,Master's degree,PhD,Doctor,Scientist,No,No,Yes,No,21,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,Law,Evening,Associate's degree,,High School diploma,Bachelor's degree,Librarian,Professor,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Bachelor's degree,,PhD,Master's degree,Engineer,Architect,No,No,Yes,No,24,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Sociology,Evening,Master's degree,,Bachelor's degree,Bachelor's degree,Psychologist,Social worker,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,3%,$65,1,0,1
+Married,In-person,2,History,Daytime,High School diploma,,Master's degree,Associate's degree,Historian,Archaeologist,No,No,Yes,No,28,No,,,,,,,,,,,,,3%,4%,$70,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,Bachelor's degree,,PhD,Bachelor's degree,Environmentalist,Biologist,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,2%,5%,$75,1,0,1
+Single,Online,1,Political Science,Daytime,PhD,,Bachelor's degree,Master's degree,Politician,Diplomat,No,No,Yes,No,22,No,,,,,,,,,,,,,1%,6%,$80,1,0,1
+Married,In-person,2,Mathematics,Evening,Associate's degree,,High School diploma,Bachelor's degree,Mathematician,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Chef,Lawyer,No,No,Yes,No,24,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Marketing,Evening,High School diploma,,Associate's degree,High School diploma,Artist,Carpenter,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,2%,7%,$45,1,0,1
+Single,Online,1,Education,Daytime,PhD,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,30,No,,,,,,,,,,,,,3%,8%,$50,1,0,1
+Married,In-person,2,Sociology,Evening,Bachelor's degree,,PhD,Master's degree,Psychologist,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,4%,9%,$55,1,0,1
+Divorced,Hybrid,3,History,Daytime,Associate's degree,,High School diploma,Bachelor's degree,Librarian,Firefighter,No,No,Yes,No,23,No,,,,,,,,,,,,,5%,10%,$60,1,0,1
+Single,Online,1,Linguistics,Evening,Master's degree,,Bachelor's degree,PhD,Writer,Musician,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,6%,11%,$65,1,0,1
+Married,In-person,2,Environmental Science,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Farmer,Pilot,No,No,Yes,No,26,No,,,,,,,,,,,,,7%,12%,$70,1,0,1
+Divorced,Hybrid,3,Anthropology,Evening,High School diploma,,Associate's degree,High School diploma,Social worker,Mechanic,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,8%,13%,$75,1,0,1
+Single,Online,1,Public Health,Daytime,PhD,,PhD,Master's degree,Dentist,Pharmacist,No,No,Yes,No,32,No,,,,,,,,,,,,,9%,14%,$80,1,0,1
+Married,In-person,2,Political Science,Evening,Bachelor's degree,,Master's degree,PhD,Lawyer,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Education,Daytime,PhD,,Associate's degree,Bachelor's degree,Artist,Lawyer,No,No,Yes,No,30,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Economics,Evening,Bachelor's degree,,High School diploma,High School diploma,Chef,Pilot,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Sociology,Daytime,High School diploma,,Bachelor's degree,Master's degree,Librarian,Professor,No,No,Yes,No,24,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,History,Evening,Associate's degree,,Master's degree,PhD,Psychologist,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Social worker,Firefighter,No,No,Yes,No,29,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Mathematics,Evening,Bachelor's degree,,High School diploma,High School diploma,Accountant,Engineer,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,3%,$65,1,0,1
+Married,In-person,2,Chemistry,Daytime,Master's degree,,PhD,Master's degree,Doctor,Scientist,No,No,Yes,No,31,No,,,,,,,,,,,,,3%,4%,$70,1,0,1
+Divorced,Hybrid,3,Physics,Evening,High School diploma,,Associate's degree,Bachelor's degree,Nurse,Police officer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$75,1,0,1
+Single,Online,1,Environmental Science,Daytime,PhD,,Bachelor's degree,Master's degree,Engineer,Scientist,No,No,Yes,No,25,No,,,,,,,,,,,,,1%,6%,$80,1,0,1
+Married,In-person,2,Geography,Evening,Bachelor's degree,,High School diploma,High School diploma,Teacher,Account,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,High School Diploma,,Bachelor's Degree,Master's Degree,Teacher,Engineer,No,No,Yes,No,18,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,Associate's Degree,,High School Diploma,Bachelor's Degree,Nurse,Accountant,Yes,Yes,No,Yes,20,Yes,,,,,,,,,,,,,6%,3%,$22,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Bachelor's Degree,,Master's Degree,PhD,Lawyer,Doctor,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,$18,1,0,1
+Single,Online,1,Nursing,Evening,High School Diploma,,Associate's Degree,Bachelor's Degree,Chef,Architect,Yes,Yes,No,Yes,19,Yes,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Engineering,Daytime,Bachelor's Degree,,High School Diploma,Master's Degree,Teacher,Engineer,No,No,Yes,No,21,No,,,,,,,,,,,,,6%,3%,$22,1,0,1
+Divorced,Hybrid,3,Economics,Evening,Associate's Degree,,Bachelor's Degree,PhD,Nurse,Accountant,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,1%,$18,1,0,1
+Single,Online,1,Education,Daytime,High School Diploma,,Master's Degree,PhD,Lawyer,Doctor,No,No,Yes,No,24,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Sociology,Evening,Bachelor's Degree,,High School Diploma,Bachelor's Degree,Chef,Architect,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,$22,1,0,1
+Divorced,Hybrid,3,Communication,Daytime,Associate's Degree,,Master's Degree,PhD,Teacher,Engineer,No,No,Yes,No,26,No,,,,,,,,,,,,,4%,1%,$18,1,0,1
+Single,Online,1,Marketing,Evening,High School Diploma,,Bachelor's Degree,Master's Degree,Nurse,Accountant,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,History,Daytime,Bachelor's Degree,,High School Diploma,Bachelor's Degree,Lawyer,Doctor,No,No,Yes,No,28,No,,,,,,,,,,,,,6%,3%,$22,1,0,1
+Divorced,Hybrid,3,Art,Evening,Associate's Degree,,Master's Degree,PhD,Chef,Architect,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,4%,1%,$18,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Businessman,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High school diploma,High school diploma,Artist,Musician,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,2%,4%,$45,1,0,1
+Single,Online,1,Medicine,Daytime,High school diploma,,Bachelor's degree,Master's degree,Doctor,Engineer,No,No,Yes,No,24,No,,,,,,,,,,,,,3%,3%,$50,1,0,1
+Married,In-person,2,Law,Evening,Associate's degree,,High school diploma,High school diploma,Chef,Carpenter,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,2%,$55,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's degree,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,29,No,,,,,,,,,,,,,5%,1%,$60,1,0,1
+Single,Online,1,Engineering,Evening,PhD,,Bachelor's degree,Master's degree,Architect,Pilot,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6%,0%,$65,1,0,1
+Married,In-person,2,Environmental Science,Daytime,Bachelor's degree,,High school diploma,High school diploma,Farmer,Fisherman,No,No,Yes,No,27,No,,,,,,,,,,,,,4%,2%,$70,1,0,1
+Divorced,Hybrid,3,History,Evening,Master's degree,,PhD,Master's degree,Writer,Editor,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,3%,3%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,High school diploma,,Bachelor's degree,Master's degree,Dentist,Pharmacist,No,No,Yes,No,21,No,,,,,,,,,,,,,2%,4%,$80,1,0,1
+Married,In-person,2,Physics,Evening,Associate's degree,,High school diploma,High school diploma,Librarian,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,4%,2%,$23,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Chef,Lawyer,No,No,Yes,No,26,No,,,,,,,,,,,,,3%,2.5%,$27,1,0,1
+Divorced,Hybrid,3,Education,Evening,High school diploma,,Bachelor's degree,High school diploma,Teacher,Accountant,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,5%,3%,$24,1,0,1
+Single,Online,1,Medicine,Daytime,Associate's degree,,Master's degree,PhD,Doctor,Engineer,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,2%,$26,1,0,1
+Married,In-person,2,Law,Evening,High school diploma,,PhD,Master's degree,Lawyer,Professor,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3%,2.5%,$28,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Artist,Architect,No,No,Yes,No,24,No,,,,,,,,,,,,,6%,2.5%,$25,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,2%,$27,1,0,1
+Married,In-person,2,History,Daytime,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,No,No,Yes,No,28,No,,,,,,,,,,,,,3%,2.5%,$30,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,5%,3%,$26,1,0,1
+Single,Online,1,Mathematics,Daytime,Bachelor's degree,,Master's degree,PhD,Scientist,Engineer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,2%,$28,1,0,1
+Married,In-person,2,Art,Evening,High school diploma,,PhD,Master's degree,Artist,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,2.5%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,3.0%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,2.0%,1,0,1
+Single,Online,1,Engineering,Daytime,Master's degree,,PhD,PhD,Scientist,Engineer,No,No,Yes,No,23,Yes,,,,,,,,,,,,,3%,0.5%,2.2%,1,0,1
+Married,In-person,2,Nursing,Evening,Bachelor's degree,,High School diploma,Associate's degree,Secretary,Chef,Yes,Yes,No,Yes,27,No,,,,,,,,,,,,,7%,4%,3.5%,1,0,1
+Divorced,Hybrid,3,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,24,Yes,,,,,,,,,,,,,5%,2%,2.8%,1,0,1
+Single,Online,1,Marketing,Daytime,High School diploma,,Associate's degree,Bachelor's degree,Artist,Musician,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,1%,2.1%,1,0,1
+Married,In-person,2,Education,Evening,Master's degree,,PhD,PhD,Researcher,Scientist,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,6%,3%,3.2%,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's degree,,High School diploma,High School diploma,Librarian,Writer,No,No,Yes,No,23,No,,,,,,,,,,,,,5%,2%,2.7%,1,0,1
+Single,Online,1,History,Daytime,Associate's degree,,Bachelor's degree,Master's degree,Architect,Engineer,No,No,Yes,No,22,Yes,,,,,,,,,,,,,3%,0.5%,2.3%,1,0,1
+Married,In-person,2,Communication,Evening,High School diploma,,Master's degree,PhD,Psychologist,Psychiatrist,Yes,Yes,No,Yes,28,No,,,,,,,,,,,,,7%,4%,3.7%,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Bachelor's degree,,High School diploma,Associate's degree,Translator,Interpreter,No,No,Yes,No,25,Yes,,,,,,,,,,,,,5%,2%,2.9%,1,0,1
+Single,Online,1,Environmental Science,Daytime,PhD,,Bachelor's degree,Master's degree,Biologist,Chemist,No,No,Yes,No,24,Yes,,,,,,,,,,,,,3%,0.5%,2.4%,1,0,1
+Married,In-person,2,Mathematics,Evening,Master's degree,,PhD,PhD,Mathematician,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,Associate's degree,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,2%,7%,$45,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,No,No,Yes,No,23,No,,,,,,,,,,,,,3%,8%,$50,1,0,1
+Married,In-person,2,Medicine,Evening,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,4%,9%,$55,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Master's degree,,PhD,Master's degree,Scientist,Engineer,No,No,Yes,No,29,No,,,,,,,,,,,,,5%,10%,$60,1,0,1
+Single,Online,1,Law,Evening,Bachelor's degree,,Master's degree,PhD,Lawyer,Professor,Yes,Yes,No,Yes,30,Yes,,,,,,,,,,,,,6%,11%,$65,1,0,1
+Married,In-person,2,Environmental Science,Daytime,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,No,No,Yes,No,32,No,,,,,,,,,,,,,7%,12%,$70,1,0,1
+Divorced,Hybrid,3,History,Evening,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,8%,13%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,Master's degree,,PhD,Master's degree,Scientist,Engineer,No,No,Yes,No,33,No,,,,,,,,,,,,,9%,14%,$80,1,0,1
+Married,In-person,2,Linguistics,Evening,Bachelor's degree,,Master's degree,PhD,Lawyer,Professor,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,7%,2.2%,$23,1,0,1
+Married,In-person,2,Education,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,28,No,,,,,,,,,,,,,4.5%,2.8%,$26,1,0,1
+Divorced,Hybrid,3,Economics,Evening,Bachelor's degree,,High School diploma,High School diploma,Chef,Carpenter,Yes,Yes,No,Yes,30,Yes,,,,,,,,,,,,,5.5%,2.3%,$24,1,0,1
+Single,Online,1,Sociology,Daytime,High School diploma,,Associate's degree,Bachelor's degree,Social worker,Businessman,No,No,Yes,No,21,No,,,,,,,,,,,,,6.5%,2.6%,$21,1,0,1
+Married,In-person,2,History,Evening,Master's degree,,PhD,Master's degree,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4.2%,2.9%,$27,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Associate's degree,,Bachelor's degree,Bachelor's degree,Librarian,Writer,No,No,Yes,No,23,No,,,,,,,,,,,,,7.5%,2.4%,$24,1,0,1
+Single,Online,1,Mathematics,Evening,PhD,,Master's degree,PhD,Researcher,Consultant,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,8%,2.7%,$28,1,0,1
+Married,In-person,2,Chemistry,Daytime,Bachelor's degree,,High School diploma,High School diploma,Pharmacist,Veterinarian,No,No,Yes,No,29,No,,,,,,,,,,,,,4.8%,3%,$29,1,0,1
+Divorced,Hybrid,3,Physics,Evening,Master's degree,,PhD,Master's degree,Psychologist,Psychiatrist,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,8.5%,2.5%,$25,1,0,1
+Single,Online,1,Environmental Science,Daytime,High School diploma,,Associate's degree,Bachelor's degree,Environmentalist,Architect,No,No,Yes,No,22,No,,,,,,,,,,,,,9%,2.8%,$30,1,0,1
+Married,In-person,2,Geography,Evening,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,4.5%,2.2%,$23,1,0,1
+Married,In-person,2,Education,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Businessman,No,No,Yes,No,28,No,,,,,,,,,,,,,3.5%,2.8%,$24,1,0,1
+Divorced,Hybrid,3,Economics,Evening,Bachelor's degree,,High School diploma,High School diploma,Chef,Carpenter,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,5.5%,2.3%,$21,1,0,1
+Single,Online,1,Medicine,Daytime,High School diploma,,Associate's degree,Associate's degree,Artist,Musician,No,No,Yes,No,23,No,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Married,In-person,2,Law,Evening,Bachelor's degree,,Master's degree,PhD,Professor,Researcher,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3.5%,3%,$26,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Associate's degree,,High School diploma,High School diploma,Secretary,Mechanic,No,No,Yes,No,21,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Architect,Pilot,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,5%,2.2%,$23,1,0,1
+Married,In-person,2,Environmental Science,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Veterinarian,Farmer,No,No,Yes,No,30,No,,,,,,,,,,,,,3%,2.8%,$24,1,0,1
+Divorced,Hybrid,3,History,Evening,Bachelor's degree,,High School diploma,High School diploma,Librarian,Firefighter,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4.5%,2.3%,$21,1,0,1
+Single,Online,1,Mathematics,Daytime,High School diploma,,Associate's degree,Associate's degree,Social worker,Electrician,No,No,Yes,No,26,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Married,In-person,2,Physics,Evening,Bachelor's degree,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Engineer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Professor,Lawyer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Artist,Architect,No,No,Yes,No,30,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,Associate's degree,Chef,Pilot,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,2%,7%,$45,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Bachelor's degree,Bachelor's degree,Scientist,Researcher,No,No,Yes,No,24,No,,,,,,,,,,,,,3%,8%,$50,1,0,1
+Married,In-person,2,Medicine,Evening,Master's degree,,PhD,Master's degree,Dentist,Pharmacist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,4%,9%,$55,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Associate's degree,,High School diploma,High School diploma,Librarian,Firefighter,No,No,Yes,No,23,No,,,,,,,,,,,,,5%,10%,$60,1,0,1
+Single,Online,1,Law,Evening,Bachelor's degree,,Master's degree,PhD,Judge,Politician,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,6%,11%,$65,1,0,1
+Married,In-person,2,Environmental Science,Daytime,High School diploma,,Bachelor's degree,Bachelor's degree,Biologist,Geologist,No,No,Yes,No,31,No,,,,,,,,,,,,,7%,12%,$70,1,0,1
+Divorced,Hybrid,3,History,Evening,Associate's degree,,High School diploma,Associate's degree,Archaeologist,Historian,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,8%,13%,$75,1,0,1
+Single,Online,1,Communication,Daytime,Master's degree,,PhD,Master's degree,Journalist,Editor,No,No,Yes,No,27,No,,,,,,,,,,,,,9%,14%,$80,1,0,1
+Married,In-person,2,Music,Evening,PhD,,Bachelor's degree,Master's degree,Musician,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,3%,0.5%,5%,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Lawyer,Business owner,No,No,Yes,No,30,No,,,,,,,,,,,,,2%,0.3%,6%,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High School diploma,High School diploma,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,1%,0.2%,7%,1,0,1
+Single,Online,1,Sociology,Daytime,High School diploma,,Bachelor's degree,Master's degree,Chef,Pilot,No,No,Yes,No,24,No,,,,,,,,,,,,,0.5%,0.1%,8%,1,0,1
+Married,In-person,2,History,Evening,Associate's degree,,Master's degree,PhD,Professor,Researcher,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,0.3%,0.05%,9%,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Bachelor's degree,,PhD,Master's degree,Psychologist,Social worker,No,No,Yes,No,23,No,,,,,,,,,,,,,0.2%,0.03%,10%,1,0,1
+Single,Online,1,Mathematics,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Architect,Real estate agent,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,0.1%,0.02%,11%,1,0,1
+Married,In-person,2,Chemistry,Daytime,PhD,,Associate's degree,Bachelor's degree,Pharmacist,Dentist,No,No,Yes,No,31,No,,,,,,,,,,,,,0.05%,0.01%,12%,1,0,1
+Divorced,Hybrid,3,Physics,Evening,Bachelor's degree,,High School diploma,High School diploma,Librarian,Firefighter,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,0.03%,0.005%,13%,1,0,1
+Single,Online,1,Environmental Science,Daytime,Master's degree,,PhD,Master's degree,Biologist,Veterinarian,No,No,Yes,No,26,No,,,,,,,,,,,,,0.02%,0.003%,14%,1,0,1
+Married,In-person,2,Political Science,Evening,Associate's degree,,Bachelor's degree,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,7%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,4%,1.5%,$18,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,28,No,,,,,,,,,,,,,5.5%,2.2%,$23,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,Associate's degree,Artist,Chef,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,6.5%,2.7%,$24,1,0,1
+Single,Online,1,History,Daytime,High School diploma,,Associate's degree,High School diploma,Librarian,Carpenter,No,No,Yes,No,24,No,,,,,,,,,,,,,4.5%,1.8%,$19,1,0,1
+Married,In-person,2,Linguistics,Evening,Bachelor's degree,,Master's degree,PhD,Psychologist,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5.5%,2.2%,$23,1,0,1
+Divorced,Hybrid,3,Environmental Science,Daytime,Associate's degree,,PhD,Master's degree,Biologist,Chemist,No,No,Yes,No,31,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Mathematics,Evening,Master's degree,,Bachelor's degree,Bachelor's degree,Economist,Banker,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,1.5%,$18,1,0,1
+Married,In-person,2,Physics,Daytime,PhD,,Bachelor's degree,Master's degree,Researcher,Pilot,No,No,Yes,No,29,No,,,,,,,,,,,,,5.5%,2.2%,$23,1,0,1
+Divorced,Hybrid,3,Art History,Evening,Bachelor's degree,,High School diploma,Associate's degree,Dancer,Musician,Yes,Yes,No,Yes,33,Yes,,,,,,,,,,,,,6.5%,2.7%,$24,1,0,1
+Single,Online,1,Political Science,Daytime,High School diploma,,Associate's degree,High School diploma,Social Worker,Firefighter,No,No,Yes,No,26,No,,,,,,,,,,,,,4.5%,1.8%,$19,1,0,1
+Married,In-person,2,Anthropology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,2.5%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Accountant,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,7%,3%,3%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Teacher,No,No,Yes,No,30,No,,,,,,,,,,,,,6%,2.5%,2.7%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,8%,3.5%,3.2%,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Accountant,No,No,Yes,No,28,No,,,,,,,,,,,,,6%,2.5%,2.8%,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,High School diploma,Teacher,Nurse,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,7%,3%,3.1%,1,0,1
+Single,Online,1,History,Daytime,High School diploma,,Associate's degree,Associate's degree,Artist,Musician,No,No,Yes,No,24,No,,,,,,,,,,,,,5%,2%,2.6%,1,0,1
+Married,In-person,2,Linguistics,Evening,Bachelor's degree,,Master's degree,PhD,Professor,Researcher,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,8%,3.5%,3.3%,1,0,1
+Divorced,Hybrid,3,Mathematics,Daytime,Associate's degree,,High School diploma,High School diploma,Librarian,Writer,No,No,Yes,No,29,No,,,,,,,,,,,,,6%,2.5%,2.9%,1,0,1
+Single,Online,1,Physics,Evening,PhD,,Bachelor's degree,Bachelor's degree,Architect,Engineer,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,7%,3%,3.4%,1,0,1
+Married,In-person,2,Chemistry,Daytime,Master's degree,,High School diploma,High School diploma,Chef,Farmer,No,No,Yes,No,27,No,,,,,,,,,,,,,5%,2%,2.7%,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,Bachelor's degree,,Associate's degree,Associate's degree,Pilot,Firefighter,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,8%,3.5%,3.2%,1,0,1
+Single,Online,1,Political Science,Daytime,High School diploma,,Master's degree,PhD,Judge,Police officer,No,No,Yes,No,21,No,,,,,,,,,,,,,6%,2.5%,2.8%,1,0,1
+Married,In-person,2,Anthropology,Evening,Bachelor's degree,,PhD,Master's,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,4.5%,2.2%,$23,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Secretary,Lawyer,No,No,Yes,No,26,No,,,,,,,,,,,,,5%,2.5%,$24,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High school diploma,,Bachelor's degree,Associate's degree,Artist,Carpenter,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6%,2.7%,$21,1,0,1
+Single,Online,1,Education,Daytime,PhD,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,2.3%,$26,1,0,1
+Married,In-person,2,Medicine,Evening,Bachelor's degree,,High school diploma,Bachelor's degree,Nurse,Doctor,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5%,2.4%,$27,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Associate's degree,,High school diploma,High school diploma,Secretary,Engineer,No,No,Yes,No,24,No,,,,,,,,,,,,,6%,2.6%,$28,1,0,1
+Single,Online,1,Environmental Science,Evening,Master's degree,,PhD,Master's degree,Scientist,Researcher,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,2.7%,$29,1,0,1
+Married,In-person,2,Law,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Lawyer,Judge,No,No,Yes,No,28,No,,,,,,,,,,,,,5%,2.8%,$30,1,0,1
+Divorced,Hybrid,3,History,Evening,High school diploma,,Bachelor's degree,Associate's degree,Teacher,Artist,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,2.9%,$31,1,0,1
+Single,Online,1,Mathematics,Daytime,PhD,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,3%,$32,1,0,1
+Married,In-person,2,Physics,Evening,Bachelor's degree,,High school diploma,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,2.5%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Accountant,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,3%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Teacher,No,No,Yes,No,30,No,,,,,,,,,,,,,3%,4%,2.8%,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,No,No,Yes,No,22,Yes,,,,,,,,,,,,,4%,3%,3.2%,1,0,1
+Married,In-person,2,Nursing,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Secretary,Manager,Yes,Yes,No,Yes,28,No,,,,,,,,,,,,,5%,2%,2.7%,1,0,1
+Divorced,Hybrid,3,Economics,Evening,High School diploma,,Bachelor's degree,Master's degree,Artist,Writer,No,No,Yes,No,32,Yes,,,,,,,,,,,,,3%,4%,2.9%,1,0,1
+Single,Online,1,Medicine,Daytime,PhD,,Master's degree,PhD,Doctor,Scientist,No,No,Yes,No,24,No,,,,,,,,,,,,,4%,3%,3.1%,1,0,1
+Married,In-person,2,Law,Evening,Bachelor's degree,,High School diploma,Bachelor's degree,Chef,Engineer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5%,2%,2.6%,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Associate's degree,,High School diploma,High School diploma,Librarian,Teacher,No,No,Yes,No,31,No,,,,,,,,,,,,,3%,4%,2.7%,1,0,1
+Single,Online,1,Education,Evening,Master's degree,,PhD,Master's degree,Professor,Researcher,No,No,Yes,No,23,Yes,,,,,,,,,,,,,4%,3%,3.0%,1,0,1
+Married,In-person,2,Environmental Science,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Biologist,Environmentalist,Yes,Yes,No,Yes,26,No,,,,,,,,,,,,,5%,2%,2.4%,1,0,1
+Divorced,Hybrid,3,History,Evening,High School diploma,,Bachelor's degree,Master's degree,Historian,Archaeologist,No,No,Yes,No,33,Yes,,,,,,,,,,,,,3%,4%,2.6%,1,0,1
+Single,Online,1,Mathematics,Daytime,PhD,,Master's degree,PhD,Mathematician,Statistician,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,3%,3.3%,1,0,1
+Married,In-person,2,Physics,Evening,Bachelor's degree,,High School diploma,Bachelor's degree,Physicist,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,7%,2.8%,$23,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,26,No,,,,,,,,,,,,,5.5%,2.3%,$24,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High School diploma,Associate's degree,Artist,Chef,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6.5%,2.6%,$21,1,0,1
+Single,Online,1,Sociology,Daytime,High School diploma,,Associate's degree,High School diploma,Social worker,Firefighter,No,No,Yes,No,21,No,,,,,,,,,,,,,7.5%,2.9%,$26,1,0,1
+Married,In-person,2,History,Evening,Master's degree,,PhD,Bachelor's degree,Psychologist,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,8%,3%,$27,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Associate's degree,,Bachelor's degree,Master's degree,Librarian,Musician,No,No,Yes,No,24,No,,,,,,,,,,,,,8.5%,3.2%,$28,1,0,1
+Single,Online,1,Environmental Science,Evening,High School diploma,,Master's degree,PhD,Biologist,Veterinarian,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,9%,3.5%,$29,1,0,1
+Married,In-person,2,Mathematics,Daytime,PhD,,Bachelor's degree,Master's degree,Engineer,Scientist,No,No,Yes,No,28,No,,,,,,,,,,,,,9.5%,3.8%,$30,1,0,1
+Divorced,Hybrid,3,Anthropology,Evening,Bachelor's degree,,High School diploma,Associate's degree,Social worker,Police officer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,10%,4%,$31,1,0,1
+Single,Online,1,Political Science,Daytime,High School diploma,,Associate's degree,High School diploma,Teacher,Accountant,No,No,Yes,No,22,No,,,,,,,,,,,,,10.5%,4.2%,$32,1,0,1
+Married,In-person,2,Geography,Evening,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,Associate's degree,Artist,Chef,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,2%,7%,$45,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,No,No,Yes,No,23,No,,,,,,,,,,,,,3%,8%,$50,1,0,1
+Married,In-person,2,Medicine,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,4%,9%,$55,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,25,No,,,,,,,,,,,,,5%,10%,$60,1,0,1
+Single,Online,1,Law,Evening,Bachelor's degree,,Master's degree,PhD,Lawyer,Professor,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,6%,11%,$65,1,0,1
+Married,In-person,2,Environmental Science,Daytime,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,No,No,Yes,No,30,No,,,,,,,,,,,,,7%,12%,$70,1,0,1
+Divorced,Hybrid,3,History,Evening,Associate's degree,,High School diploma,Associate's degree,Artist,Chef,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,8%,13%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,Master's degree,,PhD,Master's degree,Scientist,Engineer,No,No,Yes,No,31,No,,,,,,,,,,,,,9%,14%,$80,1,0,1
+Married,In-person,2,Physics,Evening,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Accountant,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Professor,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,4.5%,2.2%,$23,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Chef,Architect,No,No,Yes,No,26,No,,,,,,,,,,,,,3.5%,2.8%,$27,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High school diploma,,Bachelor's degree,Associate's degree,Lawyer,Accountant,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,5.5%,2.3%,$24,1,0,1
+Single,Online,1,Education,Daytime,PhD,,Master's degree,PhD,Doctor,Professor,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,2%,$20,1,0,1
+Married,In-person,2,Marketing,Evening,Bachelor's degree,,High school diploma,Bachelor's degree,Artist,Musician,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3.5%,2.8%,$27,1,0,1
+Divorced,Hybrid,3,History,Daytime,Associate's degree,,High school diploma,High school diploma,Librarian,Writer,No,No,Yes,No,24,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Scientist,Researcher,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4.5%,2.2%,$23,1,0,1
+Married,In-person,2,Linguistics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Translator,Interpreter,No,No,Yes,No,28,No,,,,,,,,,,,,,3.5%,2.8%,$27,1,0,1
+Divorced,Hybrid,3,Anthropology,Evening,High school diploma,,Bachelor's degree,Associate's degree,Social worker,Psychologist,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,5.5%,2.3%,$24,1,0,1
+Single,Online,1,Environmental Science,Daytime,PhD,,Master's degree,PhD,Biologist,Chemist,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,2%,$20,1,0,1
+Married,In-person,2,Political Science,Evening,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Accountant,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,7%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Professor,Engineer,No,No,Yes,No,24,Yes,,,,,,,,,,,,,5.5%,2.2%,$23,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Secretary,Manager,Yes,Yes,No,Yes,26,No,,,,,,,,,,,,,8%,3.5%,$27,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High school diploma,,Bachelor's degree,Master's degree,Artist,Writer,No,No,Yes,No,23,Yes,,,,,,,,,,,,,7.5%,3.2%,$24,1,0,1
+Single,Online,1,History,Daytime,Associate's degree,,High school diploma,High school diploma,Librarian,Firefighter,No,No,Yes,No,21,No,,,,,,,,,,,,,6.5%,2.7%,$21,1,0,1
+Married,In-person,2,Linguistics,Evening,Master's degree,,PhD,Master's degree,Scientist,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,8.5%,3.7%,$28,1,0,1
+Divorced,Hybrid,3,Mathematics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Chef,Carpenter,No,No,Yes,No,24,No,,,,,,,,,,,,,9%,4%,$30,1,0,1
+Single,Online,1,Physics,Evening,High school diploma,,Bachelor's degree,Master's degree,Musician,Actor,No,No,Yes,No,22,Yes,,,,,,,,,,,,,7.5%,3.2%,$24,1,0,1
+Married,In-person,2,Chemistry,Daytime,Associate's degree,,High school diploma,High school diploma,Dancer,Athlete,Yes,Yes,No,Yes,25,No,,,,,,,,,,,,,6.5%,2.7%,$21,1,0,1
+Divorced,Hybrid,3,Geography,Evening,Master's degree,,PhD,Master's degree,Psychologist,Social worker,No,No,Yes,No,23,Yes,,,,,,,,,,,,,5.5%,2.2%,$23,1,0,1
+Single,Online,1,Literature,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Journalist,Politician,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Art,Evening,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,None,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Dyslexia,No,Yes,25,Yes,,,,,,,,,,,,,7%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,ADHD,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Businessman,No,No,Yes,No,30,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High school diploma,High school diploma,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Medicine,Daytime,High school diploma,,Bachelor's degree,Master's degree,Doctor,Engineer,No,No,Yes,No,24,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,Law,Evening,Associate's degree,,High school diploma,High school diploma,Chef,Pilot,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's degree,,PhD,Master's degree,Professor,Scientist,No,No,Yes,No,29,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,Bachelor's degree,Bachelor's degree,Architect,Lawyer,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,4%,3%,$65,1,0,1
+Married,In-person,2,History,Daytime,PhD,,Master's degree,Bachelor's degree,Writer,Journalist,No,No,Yes,No,35,No,,,,,,,,,,,,,3%,4%,$70,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,Associate's degree,,High school diploma,High school diploma,Farmer,Fisherman,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,2%,5%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,High school diploma,,Bachelor's degree,Master's degree,Dentist,Pharmacist,No,No,Yes,No,27,No,,,,,,,,,,,,,1%,6%,$80,1,0,1
+Married,In-person,2,Physics,Evening,Bachelor's degree,,PhD,Master's degree,Psychologist,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,3%,2.2%,$23,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Artist,Lawyer,No,No,Yes,No,24,No,,,,,,,,,,,,,4.5%,2.8%,$21,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High school diploma,,Bachelor's degree,Master's degree,Professor,Architect,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,5.5%,3.2%,$24,1,0,1
+Single,Online,1,History,Daytime,Associate's degree,,Master's degree,PhD,Librarian,Pilot,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,2.5%,$26,1,0,1
+Married,In-person,2,Linguistics,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Chef,Firefighter,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3.5%,2.7%,$27,1,0,1
+Divorced,Hybrid,3,Mathematics,Daytime,Master's degree,,High school diploma,High school diploma,Social worker,Mechanic,No,No,Yes,No,23,No,,,,,,,,,,,,,6.5%,3.5%,$28,1,0,1
+Single,Online,1,Physics,Evening,Bachelor's degree,,PhD,Master's degree,Psychologist,Veterinarian,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,3.5%,2.3%,$29,1,0,1
+Married,In-person,2,Chemistry,Daytime,High school diploma,,Bachelor's degree,Bachelor's degree,Dancer,Musician,No,No,Yes,No,26,No,,,,,,,,,,,,,4.5%,2.8%,$30,1,0,1
+Divorced,Hybrid,3,Art History,Evening,Associate's degree,,Master's degree,PhD,Writer,Journalist,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,5.5%,3.2%,$31,1,0,1
+Single,Online,1,Environmental Science,Daytime,Master's degree,,PhD,Master's degree,Biologist,Geologist,No,No,Yes,No,30,No,,,,,,,,,,,,,4%,2.5%,$32,1,0,1
+Married,In-person,2,Political Science,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,7%,4%,1%,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Businessman,No,No,Yes,No,30,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Education,Evening,High school diploma,,Associate's degree,Associate's degree,Artist,Musician,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Sociology,Daytime,Bachelor's degree,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,21,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,History,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Librarian,Architect,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Associate's degree,,High school diploma,High school diploma,Chef,Farmer,No,No,Yes,No,23,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Mathematics,Evening,Master's degree,,PhD,Master's degree,Psychologist,Social worker,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,5%,2%,$65,1,0,1
+Married,In-person,2,Physics,Daytime,Bachelor's degree,,Master's degree,PhD,Dentist,Veterinarian,No,No,Yes,No,31,No,,,,,,,,,,,,,4%,3%,$70,1,0,1
+Divorced,Hybrid,3,Chemistry,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Pharmacist,Pilot,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3%,4%,$75,1,0,1
+Single,Online,1,Environmental Science,Daytime,Bachelor's degree,,Master's degree,PhD,Biologist,Geologist,No,No,Yes,No,22,No,,,,,,,,,,,,,2%,5%,$80,1,0,1
+Married,In-person,2,Anthropology,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,5%,3%,2%,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Artist,Lawyer,No,No,Yes,No,24,No,,,,,,,,,,,,,6%,2%,3%,1,0,1
+Divorced,Hybrid,3,Education,Evening,High School diploma,,Bachelor's degree,Associate's degree,Psychologist,Social worker,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,2%,1,0,1
+Single,Online,1,Engineering,Daytime,PhD,,Master's degree,PhD,Professor,Scientist,No,No,Yes,No,23,No,,,,,,,,,,,,,5%,2%,4%,1,0,1
+Married,In-person,2,Medicine,Evening,Bachelor's degree,,High School diploma,Bachelor's degree,Doctor,Engineer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,6%,3%,3%,1,0,1
+Divorced,Hybrid,3,Law,Daytime,Associate's degree,,High School diploma,High School diploma,Lawyer,Police officer,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,2%,2%,1,0,1
+Single,Online,1,Sociology,Evening,Master's degree,,PhD,Master's degree,Professor,Scientist,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,5%,3%,2%,1,0,1
+Married,In-person,2,Environmental Science,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Environmentalist,Biologist,No,No,Yes,No,26,No,,,,,,,,,,,,,6%,2%,4%,1,0,1
+Divorced,Hybrid,3,History,Evening,High School diploma,,Bachelor's degree,Associate's degree,Historian,Librarian,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,5%,3%,3%,1,0,1
+Single,Online,1,Mathematics,Daytime,PhD,,Master's degree,PhD,Mathematician,Statistician,No,No,Yes,No,30,No,,,,,,,,,,,,,6%,2%,3%,1,0,1
+Married,In-person,2,Art,Evening,Bachelor's degree,,High School diploma,Bachelor's degree,Artist,Musician,Yes,Yes,No,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,None,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Dyslexia,No,Yes,22,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,ADHD,Yes,No,25,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,None,Yes,Yes,23,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,Dyslexia,No,No,21,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High school diploma,High school diploma,Artist,Musician,Yes,ADHD,Yes,Yes,24,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Sociology,Daytime,High school diploma,,Associate's degree,Bachelor's degree,Chef,Pilot,No,None,Yes,No,26,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,History,Evening,Bachelor's degree,,Master's degree,PhD,Dentist,Architect,Yes,Dyslexia,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Associate's degree,,High school diploma,High school diploma,Librarian,Firefighter,No,ADHD,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Environmental Science,Evening,Master's degree,,PhD,Master's degree,Biologist,Geologist,Yes,None,Yes,Yes,29,Yes,,,,,,,,,,,,,5%,2%,$65,1,0,1
+Married,In-person,2,Mathematics,Daytime,PhD,,Bachelor's degree,Master's degree,Psychologist,Social worker,No,Dyslexia,No,No,30,No,,,,,,,,,,,,,4%,3%,$70,1,0,1
+Divorced,Hybrid,3,Anthropology,Evening,Bachelor's degree,,High school diploma,High school diploma,Social worker,Psychologist,Yes,ADHD,Yes,Yes,31,Yes,,,,,,,,,,,,,3%,4%,$75,1,0,1
+Single,Online,1,Political Science,Daytime,High school diploma,,Associate's degree,Bachelor's degree,Journalist,Editor,No,None,Yes,No,32,No,,,,,,,,,,,,,2%,5%,$80,1,0,1
+Married,In-person,2,Geography,Evening,Bachelor's degree,,Master's degree,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,Bachelor's degree,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Master's degree,Teacher,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,1%,$18,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,Doctorate,Doctorate,Scientist,Professor,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Married,In-person,2,Engineering,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Artist,Engineer,No,No,Yes,No,24,No,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Divorced,Hybrid,3,Economics,Evening,High school diploma,,Associate's degree,Bachelor's degree,Accountant,Businessman,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$28,1,0,1
+Single,Online,1,Medicine,Daytime,Doctorate,,Master's degree,Master's degree,Lawyer,Doctor,No,No,Yes,No,30,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Married,In-person,2,Law,Evening,Bachelor's degree,,High school diploma,Master's degree,Chef,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3%,5%,$45,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Associate's degree,,Bachelor's degree,Bachelor's degree,Librarian,Firefighter,No,No,Yes,No,23,No,,,,,,,,,,,,,2%,4%,$33,1,0,1
+Single,Online,1,Education,Evening,Master's degree,,Doctorate,Doctorate,Psychologist,Professor,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,5%,3%,$38,1,0,1
+Married,In-person,2,Environmental Science,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Biologist,Pilot,No,No,Yes,No,26,No,,,,,,,,,,,,,4%,2%,$50,1,0,1
+Divorced,Hybrid,3,History,Evening,High school diploma,,Associate's degree,Bachelor's degree,Social worker,Entrepreneur,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,3%,4%,$43,1,0,1
+Single,Online,1,Music,Daytime,Doctorate,,Master's degree,Master's degree,Musician,Composer,No,No,Yes,No,32,No,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Married,In-person,2,Art,Evening,Bachelor's degree,,High school diploma,Master's degree,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Lawyer,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,3%,2%,5%,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Accountant,Teacher,No,No,Yes,No,28,No,,,,,,,,,,,,,2%,1%,6%,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,High School diploma,Police officer,Nurse,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,1%,3%,7%,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Bachelor's degree,Master's degree,Doctor,Engineer,No,No,Yes,No,23,No,,,,,,,,,,,,,4%,2%,8%,1,0,1
+Married,In-person,2,History,Evening,Associate's degree,,Master's degree,PhD,Engineer,Lawyer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3%,1%,9%,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Bachelor's degree,,PhD,Master's degree,Teacher,Accountant,No,No,Yes,No,21,No,,,,,,,,,,,,,2%,3%,10%,1,0,1
+Single,Online,1,Mathematics,Evening,Master's degree,,Bachelor's degree,Bachelor's degree,Accountant,Teacher,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,1%,2%,11%,1,0,1
+Married,In-person,2,Chemistry,Daytime,PhD,,Associate's degree,Bachelor's degree,Nurse,Police officer,No,No,Yes,No,29,No,,,,,,,,,,,,,5%,1%,12%,1,0,1
+Divorced,Hybrid,3,Physics,Evening,Bachelor's degree,,High School diploma,High School diploma,Police officer,Nurse,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,6%,3%,13%,1,0,1
+Single,Online,1,Art History,Daytime,High School diploma,,Bachelor's degree,Master's degree,Doctor,Engineer,No,No,Yes,No,25,No,,,,,,,,,,,,,4%,2%,14%,1,0,1
+Married,In-person,2,Environmental Science,Evening,Associate's degree,,Master's degree,PhD,Engineer,Lawyer,Yes,Yes,No,Yes,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Nursing,Daytime,Bachelor's degree,,High School diploma,Associate's degree,Secretary,Carpenter,No,No,Yes,No,26,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Economics,Evening,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Businessman,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Associate's degree,High School diploma,Artist,Chef,No,No,Yes,No,21,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,Medicine,Evening,Master's degree,,PhD,Master's degree,Professor,Scientist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,Law,Daytime,Bachelor's degree,,High School diploma,Associate's degree,Librarian,Mechanic,No,No,Yes,No,24,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Sociology,Evening,Associate's degree,,Bachelor's degree,Bachelor's degree,Psychologist,Social worker,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,4%,3%,$65,1,0,1
+Married,In-person,2,History,Daytime,High School diploma,,Master's degree,PhD,Historian,Archaeologist,No,No,Yes,No,28,No,,,,,,,,,,,,,3%,4%,$70,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,Bachelor's degree,,PhD,Master's degree,Biologist,Chemist,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,2%,5%,$75,1,0,1
+Single,Online,1,Linguistics,Daytime,Master's degree,,Bachelor's degree,Bachelor's degree,Translator,Writer,No,No,Yes,No,22,No,,,,,,,,,,,,,1%,6%,$80,1,0,1
+Married,In-person,2,Political Science,Evening,PhD,,High School diploma,Associate's degree,Politician,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,7%,4%,1%,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,4%,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,7%,3%,$30,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Bachelor's degree,Master's degree,Lawyer,Professor,No,No,Yes,No,30,No,,,,,,,,,,,,,5%,2.5%,$28,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High School diploma,Associate's degree,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$26,1,0,1
+Single,Online,1,Sociology,Daytime,High School diploma,,Master's degree,Bachelor's degree,Psychologist,Social worker,No,No,Yes,No,24,No,,,,,,,,,,,,,6%,2.5%,$24,1,0,1
+Married,In-person,2,History,Evening,Associate's degree,,PhD,Master's degree,Historian,Archaeologist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5%,2%,$27,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Bachelor's degree,,High School diploma,High School diploma,Librarian,Writer,No,No,Yes,No,23,No,,,,,,,,,,,,,4%,3%,$23,1,0,1
+Single,Online,1,Mathematics,Evening,Master's degree,,PhD,Master's degree,Mathematician,Statistician,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,7%,3%,$32,1,0,1
+Married,In-person,2,Chemistry,Daytime,PhD,,Bachelor's degree,Master's degree,Chemist,Physicist,No,No,Yes,No,31,No,,,,,,,,,,,,,5%,2.5%,$29,1,0,1
+Divorced,Hybrid,3,Physics,Evening,Associate's degree,,High School diploma,Associate's degree,Astronomer,Geologist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,4%,3%,$26,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Lawyer,Businessman,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High school diploma,High school diploma,Chef,Carpenter,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,2%,4%,$45,1,0,1
+Single,Online,1,Education,Daytime,High school diploma,,Bachelor's degree,Master's degree,Teacher,Engineer,No,No,Yes,No,23,No,,,,,,,,,,,,,3%,3%,$50,1,0,1
+Married,In-person,2,Medicine,Evening,Associate's degree,,Master's degree,PhD,Doctor,Scientist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,1%,2%,$55,1,0,1
+Divorced,Hybrid,3,Law,Daytime,PhD,,Bachelor's degree,Bachelor's degree,Lawyer,Businessman,No,No,Yes,No,29,No,,,,,,,,,,,,,2%,1%,$60,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,3%,2%,$65,1,0,1
+Married,In-person,2,Art,Daytime,Bachelor's degree,,High school diploma,High school diploma,Artist,Musician,No,No,Yes,No,30,No,,,,,,,,,,,,,4%,3%,$70,1,0,1
+Divorced,Hybrid,3,History,Evening,High school diploma,,Associate's degree,Bachelor's degree,Librarian,Writer,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,5%,4%,$75,1,0,1
+Single,Online,1,Environmental Science,Daytime,Bachelor's degree,,Master's degree,PhD,Environmentalist,Biologist,No,No,Yes,No,29,No,,,,,,,,,,,,,2%,5%,$80,1,0,1
+Married,In-person,2,Music,Evening,High school diploma,,Bachelor's degree,Master's degree,Music teacher,Composer,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Single,Online,1,Economics,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,5%,3%,2%,1,0,1
+Married,In-person,2,Nursing,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Secretary,Lawyer,No,No,Yes,No,26,No,,,,,,,,,,,,,4%,2%,3%,1,0,1
+Divorced,Hybrid,3,Education,Evening,High School diploma,,Bachelor's degree,Associate's degree,Artist,Chef,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Single,Online,1,Engineering,Daytime,PhD,,Master's degree,PhD,Professor,Scientist,No,No,Yes,No,21,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Sociology,Evening,Bachelor's degree,,High School diploma,Bachelor's degree,Librarian,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,History,Daytime,Associate's degree,,High School diploma,High School diploma,Social worker,Firefighter,No,No,Yes,No,24,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Single,Online,1,Political Science,Evening,Master's degree,,PhD,Master's degree,Psychologist,Psychiatrist,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,5%,3%,2%,1,0,1
+Married,In-person,2,Linguistics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Writer,Journalist,No,No,Yes,No,28,No,,,,,,,,,,,,,4%,2%,3%,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,High School diploma,,Bachelor's degree,Associate's degree,Environmentalist,Farmer,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Single,Online,1,Mathematics,Daytime,Bachelor's degree,,Master's degree,PhD,Mathematician,Physicist,No,No,Yes,No,22,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Art History,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Curator,Archaeologist,Yes,Yes,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Education,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Artist,Lawyer,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Economics,Evening,High School diploma,,Bachelor's degree,Master's degree,Banker,Professor,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,2%,7%,$45,1,0,1
+Single,Online,1,Medicine,Daytime,PhD,,Master's degree,PhD,Doctor,Scientist,No,No,Yes,No,24,No,,,,,,,,,,,,,3%,8%,$50,1,0,1
+Married,In-person,2,Law,Evening,Associate's degree,,High School diploma,Bachelor's degree,Chef,Entrepreneur,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,9%,$55,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's degree,,High School diploma,High School diploma,Social worker,Firefighter,No,No,Yes,No,31,No,,,,,,,,,,,,,5%,10%,$60,1,0,1
+Single,Online,1,Engineering,Evening,High School diploma,,Bachelor's degree,Master's degree,Architect,Pilot,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6%,11%,$65,1,0,1
+Married,In-person,2,Environmental Science,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Librarian,Veterinarian,No,No,Yes,No,27,No,,,,,,,,,,,,,7%,12%,$70,1,0,1
+Divorced,Hybrid,3,History,Evening,Associate's degree,,Bachelor's degree,Master's degree,Psychologist,Dentist,Yes,Yes,No,Yes,33,Yes,,,,,,,,,,,,,8%,13%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,Master's degree,,PhD,Master's degree,Researcher,Programmer,No,No,Yes,No,21,No,,,,,,,,,,,,,9%,14%,$80,1,0,1
+Married,In-person,2,Physics,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Pharm,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Associate's degree,Chef,Pilot,No,No,Yes,No,24,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Marketing,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Lawyer,Businessman,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Education,Daytime,Associate's degree,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,23,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,Sociology,Evening,High school diploma,,PhD,Master's degree,Psychologist,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,History,Daytime,Bachelor's degree,,High school diploma,Associate's degree,Artist,Musician,No,No,Yes,No,21,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,PhD,Master's degree,Engineer,Scientist,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,5%,2%,$65,1,0,1
+Married,In-person,2,Political Science,Daytime,Bachelor's degree,,High school diploma,Associate's degree,Lawyer,Businessman,No,No,Yes,No,26,No,,,,,,,,,,,,,4%,3%,$70,1,0,1
+Divorced,Hybrid,3,Linguistics,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,3%,4%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,Associate's degree,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,25,No,,,,,,,,,,,,,2%,5%,$80,1,0,1
+Married,In-person,2,Environmental Science,Evening,High school diploma,,PhD,Master's degree,Biologist,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Lawyer,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,7%,3%,1%,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Chef,Architect,No,No,Yes,No,24,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Divorced,Hybrid,3,Education,Evening,High School diploma,,Associate's degree,High School diploma,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Single,Online,1,Sociology,Daytime,PhD,,Bachelor's degree,Master's degree,Scientist,Professor,No,No,Yes,No,23,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Married,In-person,2,History,Evening,Master's degree,,High School diploma,Bachelor's degree,Librarian,Writer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Associate's degree,,High School diploma,High School diploma,Psychologist,Social worker,No,No,Yes,No,21,No,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Single,Online,1,Mathematics,Evening,Bachelor's degree,,Master's degree,PhD,Dentist,Surgeon,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,7%,3%,1%,1,0,1
+Married,In-person,2,Chemistry,Daytime,High School diploma,,Bachelor's degree,Bachelor's degree,Pharmacist,Veterinarian,No,No,Yes,No,26,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Divorced,Hybrid,3,Physics,Evening,Associate's degree,,High School diploma,High School diploma,Firefighter,Pilot,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Single,Online,1,Art History,Daytime,PhD,,Bachelor's degree,Master's degree,Interior designer,Fashion designer,No,No,Yes,No,24,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Married,In-person,2,Environmental Science,Evening,Master's degree,,High School diploma,Bachelor's degree,Biologist,Geologist,Yes,Yes,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Artist,Lawyer,No,No,Yes,No,28,No,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High School diploma,,Bachelor's degree,Master's degree,Chef,Pilot,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Education,Daytime,Associate's degree,,High School diploma,High School diploma,Librarian,Firefighter,No,No,Yes,No,24,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Medicine,Evening,Master's degree,,PhD,Master's degree,Psychologist,Dentist,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,History,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Writer,Musician,No,No,Yes,No,29,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Engineering,Evening,PhD,,Master's degree,PhD,Architect,Professor,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Law,Daytime,High School diploma,,Bachelor's degree,Master's degree,Judge,Politician,No,No,Yes,No,27,No,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,Associate's degree,,High School diploma,High School diploma,Farmer,Fisherman,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,30,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Chef,Lawyer,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High school diploma,,Bachelor's degree,Master's degree,Artist,Architect,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,2%,4%,$45,1,0,1
+Single,Online,1,Education,Daytime,Associate's degree,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,24,No,,,,,,,,,,,,,3%,3%,$50,1,0,1
+Married,In-person,2,History,Evening,High school diploma,,PhD,Bachelor's degree,Psychologist,Social worker,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,4%,2%,$55,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Bachelor's degree,,High school diploma,High school diploma,Librarian,Writer,No,No,Yes,No,31,No,,,,,,,,,,,,,5%,1%,$60,1,0,1
+Single,Online,1,Environmental Science,Evening,Master's degree,,PhD,Master's degree,Biologist,Chemist,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6%,2%,$65,1,0,1
+Married,In-person,2,Political Science,Daytime,Associate's degree,,Bachelor's degree,Bachelor's degree,Economist,Banker,No,No,Yes,No,26,No,,,,,,,,,,,,,4%,3%,$70,1,0,1
+Divorced,Hybrid,3,Mathematics,Evening,High school diploma,,Master's degree,PhD,Mathematician,Physicist,Yes,Yes,No,Yes,33,Yes,,,,,,,,,,,,,3%,4%,$75,1,0,1
+Single,Online,1,Public Health,Daytime,Bachelor's degree,,PhD,Master's degree,Nutritionist,Dentist,No,No,Yes,No,21,No,,,,,,,,,,,,,2%,5%,$80,1,0,1
+Married,In-person,2,Communication,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Computer Science,Daytime,High School Diploma,American,Bachelor's Degree,Master's Degree,Engineer,Doctor,No,No,Yes,No,18,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,Associate's Degree,Canadian,Master's Degree,PhD,Lawyer,Professor,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,6%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Bachelor's Degree,British,PhD,Bachelor's Degree,Psychologist,Engineer,No,No,Yes,No,25,No,,,,,,,,,,,,,4%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Daytime,High School Diploma,Mexican,Associate's Degree,High School Diploma,Nurse,Construction Worker,Yes,Yes,No,Yes,20,Yes,,,,,,,,,,,,,5.5%,2.2%,$21,1,0,1
+Married,In-person,2,Education,Evening,Bachelor's Degree,Australian,Master's Degree,PhD,Teacher,Scientist,No,No,Yes,No,24,No,,,,,,,,,,,,,6.5%,3.2%,$26,1,0,1
+Divorced,Hybrid,3,Economics,Daytime,PhD,French,Bachelor's Degree,Master's Degree,Economist,Lawyer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,4.5%,2.7%,$23,1,0,1
+Single,Online,1,Engineering,Daytime,High School Diploma,German,PhD,Bachelor's Degree,Engineer,Architect,No,No,Yes,No,21,No,,,,,,,,,,,,,5.2%,2.3%,$21,1,0,1
+Married,In-person,2,Medicine,Evening,Associate's Degree,Indian,Master's Degree,PhD,Doctor,Professor,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,6.8%,3.5%,$27,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's Degree,Japanese,PhD,Bachelor's Degree,Sociologist,Engineer,No,No,Yes,No,26,No,,,,,,,,,,,,,4.2%,2.8%,$24,1,0,1
+Single,Online,1,Environmental Science,Daytime,High School Diploma,Spanish,Bachelor's Degree,Master's Degree,Environmental Scientist,Biologist,No,No,Yes,No,19,No,,,,,,,,,,,,,5.8%,2.4%,$21,1,0,1
+Married,In-person,2,History,Evening,Associate's Degree,Italian,Master's Degree,PhD,Historian,Archaeologist,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,6.2%,3.1%,$26,1,0,1
+Divorced,Hybrid,3,Political Science,Daytime,Bachelor's Degree,Russian,PhD,Bachelor's Degree,Politician,Lawyer,No,No,Yes,No,27,No,,,,,,,,,,,,,4.8%,2.9%,$24,1,0,1
+Single,Online,1,Linguistics,Daytime,High School Diploma,Chinese,Bachelor's Degree,Master's Degree,Linguist,Translator,No,No,Yes,No,20,No,,,,,,,,,,,,,5.3%,2.1%,$21,1,0,1
+Married,In-person,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,PhD,Scientist,Lawyer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,3%,2%,5%,1,0,1
+Married,In-person,2,Engineering,Daytime,Bachelor's degree,,High school diploma,Associate's degree,Chef,Engineer,No,No,Yes,No,24,No,,,,,,,,,,,,,2%,1%,6%,1,0,1
+Divorced,Hybrid,3,Economics,Evening,PhD,,Bachelor's degree,Master's degree,Artist,Professor,Yes,Yes,No,Yes,30,Yes,,,,,,,,,,,,,1%,2%,7%,1,0,1
+Single,Online,1,Education,Daytime,High school diploma,,Associate's degree,Bachelor's degree,Librarian,Firefighter,No,No,Yes,No,26,No,,,,,,,,,,,,,7%,3%,8%,1,0,1
+Married,In-person,2,Sociology,Evening,Bachelor's degree,,High school diploma,High school diploma,Social worker,Carpenter,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,8%,1%,9%,1,0,1
+Divorced,Hybrid,3,Medicine,Daytime,Master's degree,,PhD,PhD,Dentist,Pilot,No,No,Yes,No,29,No,,,,,,,,,,,,,9%,2%,10%,1,0,1
+Single,Online,1,Law,Evening,Associate's degree,,Bachelor's degree,Master's degree,Judge,CEO,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,10%,3%,11%,1,0,1
+Married,In-person,2,History,Daytime,High school diploma,,Master's degree,PhD,Historian,Politician,No,No,Yes,No,21,No,,,,,,,,,,,,,11%,1%,12%,1,0,1
+Divorced,Hybrid,3,Art,Evening,Bachelor's degree,,High school diploma,Associate's degree,Musician,Writer,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,12%,2%,13%,1,0,1
+Single,Online,1,Music,Daytime,PhD,,High school diploma,Bachelor's degree,Dancer,Athlete,No,No,Yes,No,29,No,,,,,,,,,,,,,13%,3%,14%,1,0,1
+Married,In-person,2,Fashion,Evening,Master's degree,,Bachelor's degree,Master's degree,Fashion designer,Model,Yes,Yes,No,Yes,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,7%,2.2%,$23,1,0,1
+Married,In-person,2,Economics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Chef,Lawyer,No,No,Yes,No,24,No,,,,,,,,,,,,,4.5%,2.8%,$24,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,High School diploma,,Bachelor's degree,Master's degree,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,5.5%,2.3%,$21,1,0,1
+Single,Online,1,Education,Daytime,Associate's degree,,High School diploma,High School diploma,Secretary,Carpenter,No,No,Yes,No,23,No,,,,,,,,,,,,,6.5%,2.7%,$26,1,0,1
+Married,In-person,2,History,Evening,Master's degree,,PhD,Master's degree,Professor,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,7.5%,2.9%,$27,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Bachelor's degree,,High School diploma,Bachelor's degree,Librarian,Firefighter,No,No,Yes,No,29,No,,,,,,,,,,,,,8%,3%,$28,1,0,1
+Single,Online,1,Environmental Science,Evening,High School diploma,,Bachelor's degree,Master's degree,Biologist,Pilot,Yes,Yes,No,Yes,30,Yes,,,,,,,,,,,,,9%,3.2%,$30,1,0,1
+Married,In-person,2,Political Science,Daytime,Master's degree,,PhD,Master's degree,Psychologist,Social worker,No,No,Yes,No,26,No,,,,,,,,,,,,,9.5%,3.5%,$32,1,0,1
+Divorced,Hybrid,3,Anthropology,Evening,Bachelor's degree,,High School diploma,Bachelor's degree,Veterinarian,Pharmacist,Yes,Yes,No,Yes,32,Yes,,,,,,,,,,,,,10%,3.8%,$35,1,0,1
+Single,Online,1,Mathematics,Daytime,Associate's degree,,High School diploma,High School diploma,Police officer,Chef,No,No,Yes,No,25,No,,,,,,,,,,,,,10.5%,4%,$38,1,0,1
+Married,In-person,2,Geography,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In person,2,Economics,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Chef,Lawyer,No,No,Yes,No,24,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Education,Evening,High school diploma,,Bachelor's degree,Associate's degree,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,0%,7%,$45,1,0,1
+Single,Online,1,Sociology,Daytime,PhD,,Master's degree,PhD,Professor,Researcher,No,No,Yes,No,30,No,,,,,,,,,,,,,6%,1%,$50,1,0,1
+Married,In person,2,History,Evening,Bachelor's degree,,High school diploma,Bachelor's degree,Librarian,Architect,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,7%,0%,$55,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Associate's degree,,High school diploma,High school diploma,Secretary,Carpenter,No,No,Yes,No,23,No,,,,,,,,,,,,,8%,8%,$60,1,0,1
+Single,Online,1,Mathematics,Evening,Master's degree,,PhD,Master's degree,Psychologist,Social worker,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,9%,9%,$65,1,0,1
+Married,In person,2,Chemistry,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Waiter,Pilot,No,No,Yes,No,26,No,,,,,,,,,,,,,10%,10%,$70,1,0,1
+Divorced,Hybrid,3,Physics,Evening,High school diploma,,Bachelor's degree,Associate's degree,Farmer,Mechanic,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,11%,11%,$75,1,0,1
+Single,Online,1,Biology,Daytime,PhD,,Master's degree,PhD,Dentist,Pharmacist,No,No,Yes,No,32,No,,,,,,,,,,,,,12%,12%,$80,1,0,1
+Married,In person,2,Environmental Science,Evening,Bachelor's degree,,High school diploma,Bachelor's degree,Veterinarian,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,2.5 trillion.,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,4%,3%,1.8 trillion.,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,25,No,,,,,,,,,,,,,3%,4%,2 trillion.,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,2%,5%,1.5 trillion.,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Lawyer,Professor,No,No,Yes,No,26,No,,,,,,,,,,,,,1%,6%,2.2 trillion.,1,0,1
+Divorced,Hybrid,3,Marketing,Evening,Bachelor's degree,,High School diploma,High School diploma,Chef,Artist,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,3%,4%,1.9 trillion.,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Bachelor's degree,Master's degree,Social worker,Psychologist,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,3%,2.1 trillion.,1,0,1
+Married,In-person,2,Sociology,Evening,Associate's degree,,Master's degree,PhD,Architect,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,1.7 trillion.,1,0,1
+Divorced,Hybrid,3,History,Daytime,Bachelor's degree,,PhD,Master's degree,Scientist,Professor,No,No,Yes,No,27,No,,,,,,,,,,,,,3%,4%,2.3 trillion.,1,0,1
+Single,Online,1,Engineering,Evening,Master's degree,,Bachelor's degree,Bachelor's degree,Engineer,Doctor,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,2%,5%,1.6 trillion.,1,0,1
+Married,In-person,2,Political Science,Daytime,PhD,,Associate's degree,Bachelor's degree,Lawyer,Professor,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,2.4 trillion.,1,0,1
+Divorced,Hybrid,3,Linguistics,Evening,Bachelor's degree,,High School diploma,High School diploma,Chef,Artist,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,3%,4%,2 trillion.,1,0,1
+Single,Online,1,Environmental Science,Daytime,High School diploma,,Bachelor's degree,Master's degree,Social worker,Psychologist,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,3%,2.2 trillion.,1,0,1
+Married,In-person,2,Mathematics,Evening,Associate's degree,,Master's degree,PhD,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,2%,5%,$35,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Lawyer,Businessman,No,No,Yes,No,28,No,,,,,,,,,,,,,1%,6%,$40,1,0,1
+Divorced,Hybrid,3,Sociology,Evening,Bachelor's degree,,High School diploma,High School diploma,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,4%,3%,$45,1,0,1
+Single,Online,1,Education,Daytime,High School diploma,,Bachelor's degree,Master's degree,Teacher,Professor,No,No,Yes,No,23,No,,,,,,,,,,,,,3%,4%,$50,1,0,1
+Married,In-person,2,Medicine,Evening,Associate's degree,,Master's degree,PhD,Doctor,Scientist,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,2%,5%,$55,1,0,1
+Divorced,Hybrid,3,History,Daytime,Bachelor's degree,,PhD,Master's degree,Historian,Archaeologist,No,No,Yes,No,29,No,,,,,,,,,,,,,1%,6%,$60,1,0,1
+Single,Online,1,Engineering,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Engineer,Architect,Yes,Yes,No,Yes,30,Yes,,,,,,,,,,,,,4%,3%,$65,1,0,1
+Married,In-person,2,Environmental Science,Daytime,PhD,,Associate's degree,Bachelor's degree,Biologist,Environmentalist,No,No,Yes,No,32,No,,,,,,,,,,,,,3%,4%,$70,1,0,1
+Divorced,Hybrid,3,Linguistics,Evening,Bachelor's degree,,High School diploma,High School diploma,Translator,Writer,Yes,Yes,No,Yes,31,Yes,,,,,,,,,,,,,2%,5%,$75,1,0,1
+Single,Online,1,Mathematics,Daytime,Master's degree,,PhD,Master's degree,Mathematician,Statistician,No,No,Yes,No,33,No,,,,,,,,,,,,,1%,6%,$80,1,0,1
+Married,In-person,2,Physics,Evening,Associate's degree,,Master's degree,PhD,Physicist,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Accountant,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Professor,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,4.5%,2.2%,$23,1,0,1
+Married,In person,2,Education,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Secretary,Manager,No,No,Yes,No,26,No,,,,,,,,,,,,,3.5%,2.8%,$24,1,0,1
+Divorced,Hybrid,3,Economics,Evening,High school diploma,,Bachelor's degree,Master's degree,Lawyer,Doctor,Yes,Yes,No,Yes,23,Yes,,,,,,,,,,,,,5.5%,2.3%,$21,1,0,1
+Single,Online,1,Engineering,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,21,No,,,,,,,,,,,,,4%,3%,$26,1,0,1
+Married,In person,2,Medicine,Evening,Master's degree,,PhD,Master's degree,Professor,Engineer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,3.5%,2.8%,$27,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Secretary,Manager,No,No,Yes,No,23,No,,,,,,,,,,,,,5.5%,2.3%,$28,1,0,1
+Single,Online,1,Environmental Science,Evening,High school diploma,,Bachelor's degree,Master's degree,Lawyer,Doctor,Yes,Yes,No,Yes,22,Yes,,,,,,,,,,,,,4%,3%,$29,1,0,1
+Married,In person,2,History,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,25,No,,,,,,,,,,,,,3.5%,2.8%,$30,1,0,1
+Divorced,Hybrid,3,Linguistics,Evening,Bachelor's degree,,Master's degree,PhD,Professor,Engineer,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,5.5%,2.3%,$31,1,0,1
+Single,Online,1,Mathematics,Daytime,High school diploma,,Bachelor's degree,Bachelor's degree,Accountant,Lawyer,No,No,Yes,No,20,No,,,,,,,,,,,,,4%,3%,$32,1,0,1
+Married,In person,2,Art,Evening,Master's degree,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,1%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Lawyer,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,3%,0.5%,5%,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Artist,Professor,No,No,Yes,No,30,No,,,,,,,,,,,,,2%,0.3%,6%,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High school diploma,High school diploma,Chef,Firefighter,Yes,Yes,No,Yes,24,Yes,,,,,,,,,,,,,1%,0.2%,7%,1,0,1
+Single,Online,1,Sociology,Daytime,High school diploma,,Bachelor's degree,Master's degree,Librarian,Architect,No,No,Yes,No,21,No,,,,,,,,,,,,,0.5%,0.1%,8%,1,0,1
+Married,In-person,2,History,Evening,Associate's degree,,Master's degree,PhD,Psychologist,Lawyer,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,0.3%,0.05%,9%,1,0,1
+Divorced,Hybrid,3,Linguistics,Daytime,Bachelor's degree,,PhD,Master's degree,Scientist,Researcher,No,No,Yes,No,23,No,,,,,,,,,,,,,0.2%,0.03%,10%,1,0,1
+Single,Online,1,Mathematics,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Accountant,Engineer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,0.1%,0.02%,11%,1,0,1
+Married,In-person,2,Chemistry,Daytime,Master's degree,,Associate's degree,Bachelor's degree,Doctor,Pharmacist,No,No,Yes,No,29,No,,,,,,,,,,,,,0.05%,0.01%,12%,1,0,1
+Divorced,Hybrid,3,Physics,Evening,PhD,,High school diploma,High school diploma,Pilot,Astronaut,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,0.03%,0.005%,13%,1,0,1
+Single,Online,1,Environmental Science,Daytime,Bachelor's degree,,Master's degree,PhD,Biologist,Geologist,No,No,Yes,No,23,No,,,,,,,,,,,,,0.02%,0.003%,14%,1,0,1
+Married,In-person,2,Anthropology,Evening,High school diploma,,Bachelor's degree,Bachelor's,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,Bachelor's degree,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Master's degree,Accountant,Lawyer,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Teacher,No,No,Yes,No,22,No,,,,,,,,,,,,,6%,2.5%,$22,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,Doctorate,Doctorate,Professor,Scientist,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,3%,2.2%,$30,1,0,1
+Married,In-person,2,Engineering,Daytime,Bachelor's degree,,High school diploma,Bachelor's degree,Chef,Engineer,No,No,Yes,No,24,No,,,,,,,,,,,,,4.5%,2.8%,$28,1,0,1
+Divorced,Hybrid,3,Economics,Evening,High school diploma,,Bachelor's degree,Master's degree,Lawyer,Accountant,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,5.5%,3.2%,$26,1,0,1
+Single,Online,1,Education,Daytime,Associate's degree,,High school diploma,High school diploma,Teacher,Nurse,No,No,Yes,No,23,No,,,,,,,,,,,,,6.5%,2.7%,$24,1,0,1
+Married,In-person,2,Medicine,Evening,Master's degree,,Doctorate,Doctorate,Surgeon,Professor,Yes,Yes,No,Yes,30,Yes,,,,,,,,,,,,,3.5%,2.3%,$32,1,0,1
+Divorced,Hybrid,3,Sociology,Daytime,Bachelor's degree,,Master's degree,Bachelor's degree,Psychologist,Social worker,No,No,Yes,No,27,No,,,,,,,,,,,,,4.5%,2.8%,$28,1,0,1
+Single,Online,1,Environmental Science,Evening,High school diploma,,Bachelor's degree,Master's degree,Biologist,Environmentalist,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,2.5%,1.8%,$35,1,0,1
+Married,In-person,2,History,Daytime,Associate's degree,,High school diploma,Bachelor's degree,Historian,Archaeologist,No,No,Yes,No,26,No,,,,,,,,,,,,,3.5%,2.3%,$30,1,0,1
+Divorced,Hybrid,3,Linguistics,Evening,Bachelor's degree,,Master's degree,Bachelor's degree,Linguist,Translator,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,2.5%,1.8%,$33,1,0,1
+Single,Online,1,Art History,Daytime,High school diploma,,Bachelor's degree,Master's degree,Artist,Art historian,No,No,Yes,No,24,No,,,,,,,,,,,,,4%,2.2%,$27,1,0,1
+Married,In-person,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,3%,1,0,1
+Married,In-person,2,Business Administration,Evening,High School diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,6%,3%,2%,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High School diploma,High School diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,4%,2%,4%,1,0,1
+Single,Online,1,Nursing,Evening,Master's degree,,PhD,Master's degree,Scientist,Engineer,Yes,Yes,No,Yes,28,Yes,,,,,,,,,,,,,7%,4%,1%,1,0,1
+Married,In-person,2,Economics,Daytime,PhD,,Associate's degree,Bachelor's degree,Lawyer,Professor,No,No,Yes,No,30,No,,,,,,,,,,,,,5%,3%,2%,1,0,1
+Divorced,Hybrid,3,Education,Evening,Bachelor's degree,,High School diploma,High School diploma,Artist,Musician,Yes,Yes,No,Yes,26,Yes,,,,,,,,,,,,,6%,4%,3%,1,0,1
+Single,Online,1,Medicine,Daytime,High School diploma,,Bachelor's degree,Master's degree,Doctor,Engineer,No,No,Yes,No,24,No,,,,,,,,,,,,,4%,2%,5%,1,0,1
+Married,In-person,2,Law,Evening,Associate's degree,,Master's degree,PhD,Professor,Lawyer,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,5%,3%,4%,1,0,1
+Divorced,Hybrid,3,Engineering,Daytime,Bachelor's degree,,PhD,Master's degree,Engineer,Scientist,No,No,Yes,No,23,No,,,,,,,,,,,,,6%,4%,3%,1,0,1
+Single,Online,1,Sociology,Evening,Master's degree,,Bachelor's degree,Bachelor's degree,Accountant,Banker,Yes,Yes,No,Yes,29,Yes,,,,,,,,,,,,,7%,4%,2%,1,0,1
+Married,In-person,2,History,Daytime,High School diploma,,Associate's degree,Bachelor's degree,Teacher,Police officer,No,No,Yes,No,31,No,,,,,,,,,,,,,5%,3%,1%,1,0,1
+Divorced,Hybrid,3,Environmental Science,Evening,Bachelor's degree,,High School diploma,High School diploma,Nurse,Firefighter,Yes,Yes,No,Yes,27,Yes,,,,,,,,,,,,,6%,4%,3%,1,0,1
+Single,Online,1,Mathematics,Daytime,High School diploma,,Bachelor's degree,Master's degree,Scientist,Engineer,No,No,Yes,No,25,No,,,,,,,,,,,,,4%,2%,5%,1,0,1
+Married,In-person,2,Linguistics,Evening,Associate's degree,,Master's degree,PhD,Professor,Lawyer,Yes,Yes,No,Yes,,,,,,,,,,,,,,,,,,1,0,1
+Single,Online,1,Computer Science,Daytime,Bachelor's degree,,Master's degree,PhD,Engineer,Doctor,No,No,Yes,No,20,No,,,,,,,,,,,,,5%,2%,$20,1,0,1
+Married,In-person,2,Business Administration,Evening,High school diploma,,Bachelor's degree,Bachelor's degree,Teacher,Accountant,Yes,Yes,No,Yes,25,Yes,,,,,,,,,,,,,4%,3%,$25,1,0,1
+Divorced,Hybrid,3,Psychology,Daytime,Associate's degree,,High school diploma,High school diploma,Nurse,Police officer,No,No,Yes,No,22,No,,,,,,,,,,,,,3%,4%,$30,1,0,1

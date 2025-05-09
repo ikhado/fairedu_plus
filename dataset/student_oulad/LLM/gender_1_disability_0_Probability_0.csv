@@ -1,0 +1,853 @@
+gender,region,imd_band,age_band,studied_credits,disability,Probability
+1,West Midlands Region,70-80%,0-35,60,0,0
+1,Yorkshire Region,0-10%,0-35,60,0,0
+1,Scotland,90-100%,0-35,60,0,0
+1,South West Region,40-50%,0-35,60,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,West Midlands Region,0-10%,0-35,120,0,0
+1,North Region,30-40%,0-35,60,0,0
+1,Yorkshire Region,30-40%,0-35,60,0,0
+1,Scotland,10-20,0-35,60,0,0
+1,South East Region,50-60%,0-35,120,0,0
+1,Scotland,20-30%,0-35,30,0,0
+1,Yorkshire Region,0-10%,0-35,60,0,0
+1,London Region,20-30%,0-35,60,0,0
+1,South West Region,30-40%,0-35,60,0,0
+1,North Western Region,0-10%,0-35,30,0,0
+1,West Midlands Region,0-10%,0-35,60,0,0
+1,East Midlands Region,60-70%,0-35,60,0,0
+1,North Western Region,10-20,0-35,120,0,0
+1,South West Region,10-20,35-55,60,0,0
+1,East Anglian Region,70-80%,35-55,60,0,0
+1,North Western Region,30-40%,0-35,60,0,0
+1,West Midlands Region,20-30%,35-55,60,0,0
+1,London Region,60-70%,0-35,90,0,0
+1,East Anglian Region,80-90%,0-35,60,0,0
+1,North Western Region,0-10%,35-55,60,0,0
+1,Scotland,60-70%,0-35,60,0,0
+1,West Midlands Region,40-50%,0-35,120,0,0
+1,Scotland,80-90%,0-35,60,0,0
+1,Ireland,0-10%,0-35,120,0,0
+1,North Western Region,10-20,0-35,120,0,0
+1,East Midlands Region,60-70%,0-35,30,0,0
+1,Yorkshire Region,40-50%,0-35,120,0,0
+1,South West Region,20-30%,0-35,90,0,0
+1,North Region,10-20,0-35,180,0,0
+1,Yorkshire Region,0-10%,35-55,120,0,0
+1,North Western Region,0-10%,0-35,120,0,0
+1,Scotland,90-100%,0-35,60,0,0
+1,Wales,10-20,0-35,60,0,0
+1,South Region,80-90%,0-35,90,0,0
+1,South West Region,40-50%,35-55,240,0,0
+1,South East Region,60-70%,35-55,60,0,0
+1,London Region,0-10%,35-55,60,0,0
+1,North Western Region,0-10%,35-55,60,0,0
+1,London Region,10-20,0-35,120,0,0
+1,South Region,50-60%,35-55,120,0,0
+1,East Midlands Region,40-50%,0-35,120,0,0
+1,West Midlands Region,20-30%,35-55,60,0,0
+1,Scotland,50-60%,0-35,60,0,0
+1,South East Region,90-100%,0-35,60,0,0
+1,North Western Region,40-50%,35-55,120,0,0
+1,London Region,10-20,0-35,120,0,0
+1,South West Region,30-40%,0-35,30,0,0
+1,Yorkshire Region,0-10%,0-35,120,0,0
+1,South East Region,20-30%,0-35,90,0,0
+1,Scotland,50-60%,35-55,60,0,0
+1,South Region,90-100%,35-55,60,0,0
+1,East Anglian Region,30-40%,35-55,60,0,0
+1,East Anglian Region,90-100%,0-35,90,0,0
+1,London Region,50-60%,35-55,120,0,0
+1,West Midlands Region,0-10%,0-35,90,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,East Anglian Region,10-20,0-35,60,0,0
+1,South West Region,40-50%,0-35,60,0,0
+1,South Region,80-90%,0-35,60,0,0
+1,Scotland,80-90%,0-35,90,0,0
+1,Wales,10-20,35-55,90,0,0
+1,Ireland,90-100%,0-35,90,0,0
+1,Ireland,90-100%,0-35,90,0,0
+1,West Midlands Region,0-10%,35-55,120,0,0
+1,South East Region,20-30%,0-35,60,0,0
+1,South Region,90-100%,35-55,60,0,0
+1,Scotland,0-10%,35-55,30,0,0
+1,East Anglian Region,20-30%,0-35,30,0,0
+1,Scotland,30-40%,0-35,120,0,0
+1,South Region,90-100%,35-55,150,0,0
+1,South West Region,10-20,0-35,150,0,0
+1,East Anglian Region,60-70%,35-55,60,0,0
+1,North Region,40-50%,0-35,120,0,0
+1,East Midlands Region,0-10%,0-35,60,0,0
+1,North Western Region,10-20,0-35,60,0,0
+1,East Anglian Region,90-100%,0-35,60,0,0
+1,East Midlands Region,0-10%,0-35,120,0,0
+1,South West Region,10-20,35-55,180,0,0
+1,East Midlands Region,10-20,0-35,60,0,0
+1,South Region,80-90%,0-35,60,0,0
+1,South West Region,30-40%,0-35,60,0,0
+1,North Western Region,10-20,0-35,120,0,0
+1,South Region,90-100%,35-55,210,0,0
+1,South East Region,70-80%,0-35,60,0,0
+1,North Western Region,20-30%,35-55,60,0,0
+1,Wales,10-20,0-35,150,0,0
+1,South Region,20-30%,0-35,120,0,0
+1,South West Region,40-50%,0-35,120,0,0
+1,East Anglian Region,30-40%,0-35,180,0,0
+1,Scotland,30-40%,35-55,90,0,0
+1,Scotland,70-80%,35-55,60,0,0
+1,West Midlands Region,10-20,0-35,60,0,0
+1,East Anglian Region,50-60%,0-35,60,0,0
+1,South West Region,0-10%,0-35,120,0,0
+1,Scotland,20-30%,35-55,90,0,0
+1,West Midlands Region,20-30%,0-35,120,0,0
+1,North Western Region,10-20,35-55,120,0,0
+1,Wales,0-10%,0-35,60,0,0
+1,South East Region,10-20,0-35,60,0,0
+1,South Region,60-70%,0-35,60,0,0
+1,South Region,90-100%,0-35,60,0,0
+1,North Western Region,30-40%,35-55,60,0,0
+1,South West Region,80-90%,0-35,355,0,0
+1,London Region,80-90%,35-55,60,0,0
+1,Scotland,20-30%,35-55,60,0,0
+1,South West Region,40-50%,0-35,120,0,0
+1,South Region,90-100%,35-55,60,0,0
+1,North Region,0-10%,0-35,60,0,0
+1,Scotland,60-70%,0-35,90,0,0
+1,South Region,40-50%,0-35,120,0,0
+1,South Region,90-100%,0-35,60,0,0
+1,East Midlands Region,10-20,35-55,60,0,0
+1,Scotland,50-60%,0-35,120,0,0
+1,Ireland,60-70%,35-55,30,0,0
+1,Scotland,70-80%,0-35,90,0,0
+1,Scotland,70-80%,0-35,120,0,0
+1,London Region,80-90%,0-35,30,0,0
+1,West Midlands Region,40-50%,0-35,60,0,0
+1,Wales,50-60%,0-35,120,0,0
+1,East Midlands Region,40-50%,35-55,120,0,0
+1,South East Region,50-60%,0-35,180,0,0
+1,South Region,80-90%,0-35,120,0,0
+1,East Anglian Region,90-100%,0-35,60,0,0
+1,East Anglian Region,50-60%,0-35,60,0,0
+1,East Anglian Region,20-30%,0-35,60,0,0
+1,London Region,30-40%,35-55,330,0,0
+1,South West Region,70-80%,35-55,120,0,0
+1,South West Region,0-10%,35-55,120,0,0
+1,North Western Region,0-10%,35-55,60,0,0
+1,West Midlands Region,40-50%,0-35,60,0,0
+1,East Anglian Region,80-90%,0-35,60,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,North Western Region,70-80%,0-35,90,0,0
+1,Scotland,70-80%,0-35,120,0,0
+1,Scotland,10-20,0-35,30,0,0
+1,West Midlands Region,0-10%,0-35,120,0,0
+1,South West Region,40-50%,35-55,60,0,0
+1,Scotland,90-100%,0-35,120,0,0
+1,London Region,30-40%,35-55,120,0,0
+1,West Midlands Region,40-50%,0-35,120,0,0
+1,Wales,0-10%,0-35,90,0,0
+1,East Midlands Region,80-90%,0-35,120,0,0
+1,West Midlands Region,10-20,0-35,60,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,South Region,40-50%,0-35,120,0,0
+1,North Western Region,0-10%,0-35,150,0,0
+1,Yorkshire Region,20-30%,0-35,90,0,0
+1,Ireland,60-70%,35-55,120,0,0
+1,North Western Region,30-40%,0-35,90,0,0
+1,South East Region,20-30%,0-35,120,0,0
+1,West Midlands Region,20-30%,0-35,90,0,0
+1,Scotland,80-90%,0-35,60,0,0
+1,South West Region,40-50%,0-35,120,0,0
+1,Wales,0-10%,0-35,30,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,London Region,70-80%,0-35,60,0,0
+1,South East Region,30-40%,0-35,210,0,0
+1,South East Region,20-30%,0-35,120,0,0
+1,South East Region,60-70%,0-35,60,0,0
+1,East Midlands Region,40-50%,0-35,60,0,0
+1,East Anglian Region,30-40%,0-35,90,0,0
+1,Scotland,10-20,0-35,150,0,0
+1,North Western Region,0-10%,35-55,45,0,0
+1,London Region,40-50%,35-55,60,0,0
+1,West Midlands Region,20-30%,0-35,60,0,0
+1,Scotland,0-10%,0-35,30,0,0
+1,East Anglian Region,80-90%,0-35,120,0,0
+1,London Region,30-40%,35-55,180,0,0
+1,North Western Region,20-30%,0-35,120,0,0
+1,South Region,50-60%,35-55,60,0,0
+1,London Region,30-40%,35-55,120,0,0
+1,East Midlands Region,40-50%,0-35,90,0,0
+1,North Western Region,30-40%,0-35,120,0,0
+1,Yorkshire Region,0-10%,35-55,120,0,0
+1,Wales,0-10%,0-35,120,0,0
+1,South Region,30-40%,35-55,60,0,0
+1,London Region,30-40%,0-35,60,0,0
+1,North Western Region,0-10%,35-55,60,0,0
+1,London Region,10-20,0-35,120,0,0
+1,South East Region,60-70%,35-55,120,0,0
+1,South West Region,20-30%,0-35,90,0,0
+1,North Western Region,30-40%,0-35,60,0,0
+1,West Midlands Region,20-30%,0-35,120,0,0
+1,Scotland,20-30%,0-35,270,0,0
+1,Yorkshire Region,0-10%,0-35,210,0,0
+1,Scotland,30-40%,35-55,90,0,0
+1,London Region,50-60%,35-55,120,0,0
+1,South Region,40-50%,0-35,180,0,0
+1,Scotland,90-100%,0-35,240,0,0
+1,South West Region,20-30%,0-35,90,0,0
+1,Wales,20-30%,35-55,60,0,0
+1,Scotland,10-20,0-35,90,0,0
+1,Scotland,40-50%,0-35,60,0,0
+1,Yorkshire Region,0-10%,0-35,120,0,0
+1,South West Region,20-30%,0-35,60,0,0
+1,South Region,40-50%,0-35,180,0,0
+1,Yorkshire Region,0-10%,35-55,180,0,0
+1,East Midlands Region,20-30%,35-55,30,0,0
+1,West Midlands Region,0-10%,0-35,120,0,0
+1,South Region,90-100%,35-55,60,0,0
+1,South West Region,30-40%,0-35,90,0,0
+1,Scotland,60-70%,0-35,120,0,0
+1,Scotland,10-20,0-35,60,0,0
+1,South West Region,80-90%,0-35,120,0,0
+1,Yorkshire Region,40-50%,0-35,90,0,0
+1,South East Region,30-40%,0-35,90,0,0
+1,South East Region,10-20,0-35,120,0,0
+1,North Western Region,30-40%,35-55,120,0,0
+1,East Midlands Region,10-20,0-35,60,0,0
+1,East Midlands Region,10-20,0-35,120,0,0
+1,South East Region,30-40%,0-35,60,0,0
+1,South West Region,20-30%,0-35,120,0,0
+1,Yorkshire Region,10-20,0-35,60,0,0
+1,Yorkshire Region,0-10%,0-35,90,0,0
+1,South West Region,20-30%,0-35,90,0,0
+1,South West Region,10-20,0-35,120,0,0
+1,West Midlands Region,10-20,0-35,240,0,0
+1,West Midlands Region,50-60%,0-35,60,0,0
+1,West Midlands Region,40-50%,0-35,30,0,0
+1,East Anglian Region,70-80%,0-35,60,0,0
+1,Scotland,50-60%,0-35,90,0,0
+1,South East Region,10-20,0-35,60,0,0
+1,Ireland,60-70%,35-55,90,0,0
+1,North Western Region,0-10%,0-35,150,0,0
+1,West Midlands Region,10-20,0-35,60,0,0
+1,Scotland,60-70%,0-35,120,0,0
+1,Yorkshire Region,0-10%,35-55,60,0,0
+1,East Anglian Region,90-100%,0-35,60,0,0
+1,South Region,50-60%,35-55,60,0,0
+1,South East Region,70-80%,0-35,90,0,0
+1,East Midlands Region,60-70%,0-35,180,0,0
+1,Yorkshire Region,0-10%,0-35,60,0,0
+1,North Western Region,10-20,35-55,90,0,0
+1,East Anglian Region,30-40%,35-55,30,0,0
+1,South West Region,0-10%,0-35,120,0,0
+1,South West Region,50-60%,0-35,60,0,0
+1,Ireland,80-90%,0-35,90,0,0
+1,North Region,10-20,0-35,60,0,0
+1,Wales,50-60%,0-35,150,0,0
+1,Scotland,0-10%,0-35,120,0,0
+1,South West Region,40-50%,0-35,210,0,0
+1,East Anglian Region,80-90%,0-35,60,0,0
+1,Scotland,60-70%,0-35,90,0,0
+1,Yorkshire Region,0-10%,0-35,120,0,0
+1,South West Region,20-30%,0-35,30,0,0
+1,South West Region,50-60%,0-35,120,0,0
+1,Scotland,40-50%,0-35,30,0,0
+1,Scotland,80-90%,0-35,90,0,0
+1,North Western Region,10-20,35-55,90,0,0
+1,Ireland,60-70%,35-55,120,0,0
+1,South West Region,40-50%,0-35,210,0,0
+1,South East Region,50-60%,35-55,60,0,0
+1,London Region,30-40%,0-35,60,0,0
+1,East Anglian Region,60-70%,0-35,60,0,0
+1,London Region,50-60%,35-55,60,0,0
+1,Scotland,40-50%,0-35,60,0,0
+1,North Western Region,30-40%,0-35,90,0,0
+1,London Region,20-30%,0-35,120,0,0
+1,London Region,30-40%,0-35,150,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,East Anglian Region,90-100%,0-35,90,0,0
+1,London Region,20-30%,0-35,60,0,0
+1,South Region,40-50%,35-55,180,0,0
+1,Scotland,90-100%,0-35,60,0,0
+1,South Region,90-100%,35-55,60,0,0
+1,North Western Region,40-50%,35-55,60,0,0
+1,East Anglian Region,10-20,0-35,180,0,0
+1,London Region,30-40%,0-35,120,0,0
+1,Scotland,70-80%,0-35,120,0,0
+1,North Western Region,0-10%,35-55,60,0,0
+1,East Anglian Region,30-40%,0-35,120,0,0
+1,London Region,70-80%,0-35,60,0,0
+1,Scotland,20-30%,35-55,120,0,0
+1,South West Region,10-20,0-35,60,0,0
+1,South Region,60-70%,0-35,60,0,0
+1,South Region,10-20,0-35,180,0,0
+1,South West Region,10-20,35-55,90,0,0
+1,East Anglian Region,30-40%,35-55,90,0,0
+1,London Region,10-20,0-35,60,0,0
+1,South Region,50-60%,0-35,60,0,0
+1,Scotland,40-50%,0-35,30,0,0
+1,South West Region,50-60%,0-35,120,0,0
+1,Wales,20-30%,35-55,60,0,0
+1,Scotland,40-50%,35-55,60,0,0
+1,South Region,10-20,0-35,60,0,0
+1,Yorkshire Region,0-10%,0-35,120,0,0
+1,North Western Region,70-80%,0-35,30,0,0
+1,North Western Region,50-60%,35-55,90,0,0
+1,North Region,40-50%,0-35,120,0,0
+1,London Region,80-90%,0-35,150,0,0
+1,East Anglian Region,60-70%,35-55,60,0,0
+1,London Region,50-60%,35-55,105,0,0
+1,Ireland,0-10%,0-35,120,0,0
+1,East Midlands Region,40-50%,35-55,120,0,0
+1,South Region,40-50%,0-35,150,0,0
+1,East Anglian Region,30-40%,0-35,120,0,0
+1,South West Region,10-20,0-35,60,0,0
+1,London Region,10-20,0-35,60,0,0
+1,Scotland,30-40%,0-35,180,0,0
+1,North Western Region,0-10%,0-35,90,0,0
+1,East Anglian Region,60-70%,35-55,60,0,0
+1,South West Region,80-90%,0-35,120,0,0
+1,East Midlands Region,30-40%,0-35,120,0,0
+1,South West Region,30-40%,0-35,180,0,0
+1,London Region,20-30%,0-35,180,0,0
+1,East Midlands Region,20-30%,35-55,60,0,0
+1,East Midlands Region,30-40%,0-35,60,0,0
+1,Yorkshire Region,0-10%,35-55,60,0,0
+1,Wales,20-30%,0-35,120,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,South Region,80-90%,0-35,120,0,0
+1,West Midlands Region,20-30%,35-55,90,0,0
+1,West Midlands Region,0-10%,0-35,150,0,0
+1,East Anglian Region,60-70%,0-35,60,0,0
+1,East Midlands Region,70-80%,0-35,60,0,0
+1,North Western Region,0-10%,0-35,30,0,0
+1,East Midlands Region,10-20,0-35,120,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,Yorkshire Region,20-30%,0-35,60,0,0
+1,East Midlands Region,20-30%,35-55,210,0,0
+1,South East Region,60-70%,0-35,60,0,0
+1,East Anglian Region,80-90%,0-35,60,0,0
+1,South West Region,30-40%,0-35,60,0,0
+1,West Midlands Region,70-80%,0-35,30,0,0
+1,Yorkshire Region,20-30%,0-35,150,0,0
+1,Wales,50-60%,0-35,60,0,0
+1,Scotland,10-20,0-35,30,0,0
+1,Scotland,30-40%,35-55,90,0,0
+1,London Region,0-10%,35-55,60,0,0
+1,North Western Region,30-40%,35-55,150,0,0
+1,East Anglian Region,70-80%,0-35,60,0,0
+1,North Western Region,0-10%,0-35,120,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,North Western Region,30-40%,35-55,120,0,0
+1,South East Region,30-40%,0-35,60,0,0
+1,South Region,80-90%,0-35,120,0,0
+1,Scotland,10-20,0-35,150,0,0
+1,East Anglian Region,40-50%,0-35,30,0,0
+1,Wales,10-20,35-55,60,0,0
+1,North Western Region,10-20,0-35,60,0,0
+1,South Region,50-60%,35-55,180,0,0
+1,West Midlands Region,0-10%,0-35,60,0,0
+1,London Region,40-50%,35-55,30,0,0
+1,East Midlands Region,30-40%,0-35,120,0,0
+1,London Region,60-70%,0-35,60,0,0
+1,North Region,10-20,0-35,60,0,0
+1,Scotland,70-80%,35-55,120,0,0
+1,London Region,20-30%,0-35,60,0,0
+1,West Midlands Region,0-10%,0-35,60,0,0
+1,South West Region,0-10%,35-55,120,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,South Region,40-50%,35-55,30,0,0
+1,East Midlands Region,10-20,0-35,30,0,0
+1,Wales,20-30%,0-35,120,0,0
+1,East Anglian Region,50-60%,0-35,60,0,0
+1,South East Region,10-20,0-35,60,0,0
+1,London Region,80-90%,35-55,120,0,0
+1,Wales,10-20,0-35,30,0,0
+1,East Anglian Region,30-40%,0-35,60,0,0
+1,South Region,40-50%,0-35,60,0,0
+1,Scotland,40-50%,35-55,60,0,0
+1,South Region,90-100%,35-55,60,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,North Western Region,30-40%,0-35,60,0,0
+1,South West Region,10-20,0-35,120,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,Scotland,20-30%,35-55,60,0,0
+1,South East Region,30-40%,0-35,120,0,0
+1,Scotland,30-40%,35-55,60,0,0
+1,Ireland,80-90%,0-35,90,0,0
+1,Wales,20-30%,0-35,120,0,0
+1,South Region,40-50%,0-35,150,0,0
+1,East Anglian Region,30-40%,0-35,60,0,0
+1,West Midlands Region,60-70%,0-35,60,0,0
+1,East Anglian Region,70-80%,0-35,120,0,0
+1,London Region,70-80%,0-35,60,0,0
+1,South East Region,90-100%,0-35,120,0,0
+1,South Region,50-60%,0-35,60,0,0
+1,South Region,30-40%,35-55,120,0,0
+1,Scotland,40-50%,0-35,120,0,0
+1,South West Region,50-60%,0-35,120,0,0
+1,East Midlands Region,40-50%,35-55,120,0,0
+1,South West Region,0-10%,35-55,60,0,0
+1,Yorkshire Region,10-20,0-35,120,0,0
+1,South East Region,70-80%,0-35,90,0,0
+1,London Region,80-90%,35-55,60,0,0
+1,Scotland,0-10%,0-35,105,0,0
+1,South West Region,20-30%,0-35,120,0,0
+1,North Western Region,0-10%,35-55,60,0,0
+1,South West Region,70-80%,0-35,60,0,0
+1,East Midlands Region,10-20,0-35,30,0,0
+1,North Western Region,10-20,35-55,655,0,0
+1,East Anglian Region,50-60%,0-35,90,0,0
+1,South Region,40-50%,0-35,180,0,0
+1,North Western Region,0-10%,35-55,240,0,0
+1,East Anglian Region,50-60%,0-35,120,0,0
+1,West Midlands Region,10-20,0-35,60,0,0
+1,East Midlands Region,40-50%,0-35,90,0,0
+1,South Region,90-100%,0-35,120,0,0
+1,South East Region,20-30%,0-35,90,0,0
+1,North Western Region,0-10%,35-55,30,0,0
+1,Scotland,20-30%,35-55,60,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,South West Region,20-30%,0-35,60,0,0
+1,East Midlands Region,10-20,35-55,60,0,0
+1,London Region,20-30%,0-35,60,0,0
+1,North Western Region,10-20,35-55,60,0,0
+1,Scotland,30-40%,0-35,150,0,0
+1,North Western Region,20-30%,35-55,60,0,0
+1,East Anglian Region,50-60%,0-35,60,0,0
+1,Yorkshire Region,90-100%,0-35,60,0,0
+1,South West Region,90-100%,0-35,60,0,0
+1,South East Region,40-50%,0-35,30,0,0
+1,Scotland,70-80%,0-35,120,0,0
+1,West Midlands Region,10-20,0-35,60,0,0
+1,South West Region,90-100%,0-35,60,0,0
+1,North Western Region,50-60%,35-55,60,0,0
+1,East Anglian Region,80-90%,0-35,60,0,0
+1,South Region,80-90%,0-35,60,0,0
+1,East Anglian Region,50-60%,0-35,120,0,0
+1,West Midlands Region,0-10%,0-35,30,0,0
+1,East Anglian Region,50-60%,0-35,90,0,0
+1,South West Region,0-10%,0-35,120,0,0
+1,South West Region,40-50%,0-35,60,0,0
+1,South Region,90-100%,0-35,120,0,0
+1,West Midlands Region,0-10%,35-55,60,0,0
+1,South West Region,10-20,0-35,120,0,0
+1,East Midlands Region,10-20,35-55,120,0,0
+1,South West Region,50-60%,0-35,120,0,0
+1,Scotland,60-70%,35-55,30,0,0
+1,South East Region,30-40%,0-35,60,0,0
+1,Scotland,60-70%,0-35,120,0,0
+1,South Region,30-40%,35-55,60,0,0
+1,East Anglian Region,30-40%,35-55,90,0,0
+1,North Western Region,40-50%,35-55,120,0,0
+1,North Western Region,30-40%,35-55,120,0,0
+1,Scotland,30-40%,35-55,60,0,0
+1,Yorkshire Region,0-10%,35-55,120,0,0
+1,Yorkshire Region,0-10%,0-35,90,0,0
+1,East Anglian Region,80-90%,0-35,60,0,0
+1,Wales,10-20,35-55,240,0,0
+1,South East Region,20-30%,35-55,180,0,0
+1,South West Region,60-70%,0-35,90,0,0
+1,South Region,60-70%,0-35,90,0,0
+1,East Midlands Region,70-80%,0-35,60,0,0
+1,East Midlands Region,40-50%,0-35,60,0,0
+1,East Anglian Region,70-80%,0-35,120,0,0
+1,North Western Region,0-10%,0-35,180,0,0
+1,East Anglian Region,60-70%,0-35,60,0,0
+1,South West Region,10-20,35-55,60,0,0
+1,East Midlands Region,60-70%,0-35,60,0,0
+1,London Region,30-40%,0-35,60,0,0
+1,East Midlands Region,40-50%,0-35,90,0,0
+1,South Region,20-30%,0-35,60,0,0
+1,Scotland,50-60%,0-35,120,0,0
+1,South East Region,60-70%,0-35,60,0,0
+1,East Anglian Region,50-60%,0-35,120,0,0
+1,South East Region,50-60%,0-35,90,0,0
+1,South East Region,20-30%,35-55,60,0,0
+1,London Region,10-20,0-35,150,0,0
+1,South Region,40-50%,0-35,90,0,0
+1,East Midlands Region,70-80%,0-35,120,0,0
+1,North Western Region,30-40%,0-35,60,0,0
+1,East Midlands Region,20-30%,0-35,60,0,0
+1,South Region,50-60%,0-35,70,0,0
+1,Scotland,70-80%,0-35,120,0,0
+1,East Midlands Region,80-90%,0-35,60,0,0
+1,East Anglian Region,80-90%,0-35,180,0,0
+1,Scotland,60-70%,0-35,85,0,0
+1,West Midlands Region,50-60%,0-35,60,0,0
+1,Yorkshire Region,20-30%,0-35,60,0,0
+1,East Midlands Region,10-20,35-55,30,0,0
+1,London Region,10-20,35-55,120,0,0
+1,West Midlands Region,50-60%,0-35,60,0,0
+1,Scotland,0-10%,0-35,30,0,0
+1,South East Region,90-100%,0-35,120,0,0
+1,South Region,40-50%,0-35,120,0,0
+1,North Western Region,30-40%,35-55,75,0,0
+1,South West Region,0-10%,35-55,90,0,0
+1,South Region,80-90%,0-35,60,0,0
+1,West Midlands Region,10-20,0-35,60,0,0
+1,South Region,20-30%,0-35,120,0,0
+1,South West Region,20-30%,0-35,60,0,0
+1,Wales,20-30%,0-35,90,0,0
+1,Scotland,20-30%,0-35,60,0,0
+1,South East Region,70-80%,0-35,60,0,0
+1,South West Region,40-50%,0-35,60,0,0
+1,South West Region,0-10%,35-55,120,0,0
+1,East Anglian Region,70-80%,0-35,240,0,0
+1,South West Region,30-40%,0-35,120,0,0
+1,South Region,60-70%,0-35,60,0,0
+1,South Region,40-50%,0-35,180,0,0
+1,West Midlands Region,60-70%,0-35,120,0,0
+1,South West Region,70-80%,35-55,90,0,0
+1,South Region,90-100%,0-35,120,0,0
+1,Yorkshire Region,0-10%,0-35,120,0,0
+1,North Western Region,20-30%,0-35,120,0,0
+1,South West Region,40-50%,0-35,60,0,0
+1,North Western Region,20-30%,0-35,120,0,0
+1,London Region,10-20,35-55,120,0,0
+1,North Region,40-50%,0-35,60,0,0
+1,North Western Region,30-40%,0-35,30,0,0
+1,Scotland,50-60%,0-35,120,0,0
+1,London Region,20-30%,0-35,120,0,0
+1,London Region,20-30%,0-35,120,0,0
+1,West Midlands Region,10-20,0-35,90,0,0
+1,East Midlands Region,50-60%,0-35,120,0,0
+1,North Western Region,30-40%,0-35,120,0,0
+1,South West Region,40-50%,0-35,60,0,0
+1,East Anglian Region,90-100%,0-35,90,0,0
+1,West Midlands Region,40-50%,0-35,30,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,South East Region,20-30%,0-35,120,0,0
+1,Scotland,30-40%,35-55,120,0,0
+1,East Anglian Region,50-60%,0-35,60,0,0
+1,South East Region,50-60%,0-35,60,0,0
+1,Wales,10-20,35-55,90,0,0
+1,South East Region,90-100%,0-35,120,0,0
+1,Yorkshire Region,20-30%,0-35,120,0,0
+1,Wales,10-20,35-55,240,0,0
+1,Yorkshire Region,0-10%,0-35,210,0,0
+1,North Western Region,40-50%,35-55,60,0,0
+1,North Western Region,70-80%,0-35,60,0,0
+1,East Midlands Region,40-50%,0-35,90,0,0
+1,East Anglian Region,10-20,0-35,120,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,Scotland,20-30%,35-55,60,0,0
+1,Scotland,40-50%,0-35,60,0,0
+1,East Anglian Region,40-50%,0-35,90,0,0
+1,North Western Region,0-10%,35-55,30,0,0
+1,South West Region,70-80%,35-55,120,0,0
+1,Ireland,90-100%,0-35,60,0,0
+1,North Western Region,40-50%,35-55,120,0,0
+1,West Midlands Region,70-80%,0-35,60,0,0
+1,East Anglian Region,90-100%,0-35,60,0,0
+1,Scotland,90-100%,35-55,75,0,0
+1,South East Region,10-20,0-35,120,0,0
+1,South Region,90-100%,0-35,60,0,0
+1,Wales,70-80%,0-35,90,0,0
+1,Ireland,80-90%,0-35,120,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,South East Region,50-60%,35-55,90,0,0
+1,South West Region,10-20,0-35,120,0,0
+1,Wales,70-80%,0-35,90,0,0
+1,East Midlands Region,30-40%,0-35,120,0,0
+1,Scotland,40-50%,0-35,60,0,0
+1,East Anglian Region,30-40%,0-35,330,0,0
+1,Yorkshire Region,30-40%,0-35,90,0,0
+1,South Region,90-100%,35-55,60,0,0
+1,London Region,10-20,35-55,180,0,0
+1,London Region,10-20,35-55,120,0,0
+1,Wales,20-30%,0-35,120,0,0
+1,Ireland,0-10%,0-35,60,0,0
+1,North Region,10-20,0-35,60,0,0
+1,Wales,30-40%,0-35,60,0,0
+1,East Anglian Region,30-40%,0-35,60,0,0
+1,Scotland,0-10%,0-35,120,0,0
+1,South Region,90-100%,0-35,90,0,0
+1,East Anglian Region,20-30%,0-35,60,0,0
+1,Yorkshire Region,0-10%,35-55,60,0,0
+1,East Anglian Region,50-60%,0-35,60,0,0
+1,North Western Region,40-50%,35-55,60,0,0
+1,North Western Region,0-10%,0-35,120,0,0
+1,Wales,20-30%,0-35,180,0,0
+1,West Midlands Region,0-10%,0-35,60,0,0
+1,Scotland,0-10%,35-55,30,0,0
+1,South East Region,40-50%,0-35,60,0,0
+1,Wales,0-10%,0-35,60,0,0
+1,South Region,90-100%,35-55,120,0,0
+1,West Midlands Region,20-30%,0-35,210,0,0
+1,East Anglian Region,80-90%,0-35,120,0,0
+1,East Anglian Region,20-30%,0-35,30,0,0
+1,East Anglian Region,90-100%,0-35,30,0,0
+1,Scotland,40-50%,0-35,120,0,0
+1,South West Region,10-20,0-35,60,0,0
+1,East Anglian Region,80-90%,0-35,70,0,0
+1,South West Region,40-50%,0-35,120,0,0
+1,North Region,0-10%,0-35,60,0,0
+1,Scotland,10-20,0-35,150,0,0
+1,North Western Region,20-30%,35-55,60,0,0
+1,North Western Region,0-10%,0-35,180,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,Scotland,70-80%,35-55,120,0,0
+1,South East Region,40-50%,0-35,90,0,0
+1,Scotland,60-70%,35-55,120,0,0
+1,South Region,80-90%,35-55,120,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,East Midlands Region,20-30%,35-55,60,0,0
+1,East Anglian Region,30-40%,0-35,60,0,0
+1,London Region,20-30%,0-35,150,0,0
+1,London Region,80-90%,35-55,30,0,0
+1,East Midlands Region,10-20,0-35,180,0,0
+1,East Anglian Region,30-40%,0-35,120,0,0
+1,East Anglian Region,20-30%,0-35,120,0,0
+1,Scotland,20-30%,35-55,60,0,0
+1,London Region,60-70%,0-35,120,0,0
+1,London Region,30-40%,35-55,90,0,0
+1,South West Region,30-40%,0-35,240,0,0
+1,North Western Region,10-20,0-35,60,0,0
+1,South East Region,20-30%,35-55,120,0,0
+1,Scotland,0-10%,0-35,120,0,0
+1,Yorkshire Region,90-100%,0-35,150,0,0
+1,North Region,10-20,0-35,120,0,0
+1,Scotland,90-100%,0-35,60,0,0
+1,London Region,20-30%,0-35,120,0,0
+1,East Midlands Region,40-50%,35-55,60,0,0
+1,South Region,90-100%,0-35,30,0,0
+1,Yorkshire Region,30-40%,0-35,30,0,0
+1,South Region,50-60%,35-55,120,0,0
+1,South West Region,10-20,0-35,120,0,0
+1,South East Region,70-80%,0-35,60,0,0
+1,East Anglian Region,60-70%,0-35,120,0,0
+1,Wales,80-90%,0-35,120,0,0
+1,Wales,20-30%,0-35,60,0,0
+1,South Region,90-100%,35-55,90,0,0
+1,North Western Region,10-20,0-35,120,0,0
+1,East Midlands Region,10-20,0-35,120,0,0
+1,Yorkshire Region,0-10%,0-35,60,0,0
+1,London Region,10-20,35-55,30,0,0
+1,South West Region,70-80%,35-55,240,0,0
+1,North Western Region,30-40%,0-35,90,0,0
+1,North Western Region,30-40%,0-35,60,0,0
+1,North Western Region,30-40%,0-35,60,0,0
+1,Scotland,60-70%,0-35,60,0,0
+1,Scotland,50-60%,0-35,120,0,0
+1,North Western Region,0-10%,0-35,60,0,0
+1,West Midlands Region,20-30%,0-35,180,0,0
+1,North Western Region,20-30%,35-55,120,0,0
+1,East Anglian Region,40-50%,35-55,60,0,0
+1,South Region,20-30%,0-35,60,0,0
+1,North Region,10-20,0-35,60,0,0
+1,London Region,60-70%,0-35,120,0,0
+1,South Region,20-30%,0-35,60,0,0
+1,South East Region,70-80%,0-35,60,0,0
+1,South Region,50-60%,0-35,60,0,0
+1,Yorkshire Region,0-10%,0-35,120,0,0
+1,Scotland,80-90%,0-35,90,0,0
+1,Scotland,40-50%,35-55,60,0,0
+1,London Region,10-20,35-55,90,0,0
+1,Scotland,70-80%,0-35,60,0,0
+1,East Anglian Region,60-70%,35-55,120,0,0
+1,South East Region,30-40%,0-35,120,0,0
+1,North Western Region,0-10%,0-35,90,0,0
+1,East Midlands Region,70-80%,0-35,120,0,0
+1,Yorkshire Region,0-10%,0-35,30,0,0
+1,South East Region,60-70%,35-55,90,0,0
+1,North Western Region,30-40%,0-35,120,0,0
+1,East Midlands Region,70-80%,0-35,60,0,0
+1,Wales,20-30%,35-55,180,0,0
+1,South East Region,40-50%,0-35,90,0,0
+1,East Midlands Region,10-20,0-35,120,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,South East Region,60-70%,0-35,150,0,0
+1,South Region,40-50%,0-35,60,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,South West Region,30-40%,0-35,120,0,0
+1,Scotland,60-70%,35-55,90,0,0
+1,East Anglian Region,90-100%,0-35,60,0,0
+1,East Midlands Region,30-40%,0-35,90,0,0
+1,Scotland,80-90%,0-35,135,0,0
+1,West Midlands Region,20-30%,0-35,60,0,0
+1,West Midlands Region,0-10%,0-35,120,0,0
+1,Scotland,0-10%,0-35,30,0,0
+1,East Midlands Region,30-40%,0-35,60,0,0
+1,East Anglian Region,90-100%,0-35,120,0,0
+1,North Region,30-40%,0-35,210,0,0
+1,South West Region,50-60%,0-35,60,0,0
+1,Yorkshire Region,10-20,0-35,60,0,0
+1,Wales,80-90%,0-35,60,0,0
+1,North Western Region,0-10%,0-35,120,0,0
+1,East Anglian Region,70-80%,0-35,60,0,0
+1,North Region,40-50%,0-35,60,0,0
+1,East Midlands Region,20-30%,35-55,210,0,0
+1,South Region,30-40%,35-55,60,0,0
+1,Scotland,0-10%,0-35,120,0,0
+1,South Region,90-100%,35-55,270,0,0
+1,North Region,30-40%,0-35,210,0,0
+1,Yorkshire Region,0-10%,0-35,60,0,0
+1,North Western Region,0-10%,0-35,30,0,0
+1,North Western Region,40-50%,35-55,60,0,0
+1,South East Region,50-60%,0-35,60,0,0
+1,South East Region,60-70%,0-35,120,0,0
+1,Yorkshire Region,20-30%,0-35,90,0,0
+1,Wales,80-90%,0-35,60,0,0
+1,Scotland,90-100%,0-35,90,0,0
+1,South West Region,30-40%,0-35,30,0,0
+1,West Midlands Region,0-10%,0-35,60,0,0
+1,South West Region,20-30%,0-35,60,0,0
+1,Yorkshire Region,20-30%,0-35,60,0,0
+1,Scotland,40-50%,0-35,60,0,0
+1,Wales,50-60%,0-35,120,0,0
+1,Wales,20-30%,0-35,60,0,0
+1,North Western Region,0-10%,0-35,90,0,0
+1,Scotland,30-40%,0-35,180,0,0
+1,South West Region,10-20,0-35,90,0,0
+1,South East Region,20-30%,35-55,60,0,0
+1,South West Region,20-30%,0-35,30,0,0
+1,North Western Region,20-30%,0-35,120,0,0
+1,South Region,90-100%,0-35,30,0,0
+1,North Western Region,0-10%,35-55,30,0,0
+1,East Anglian Region,90-100%,0-35,120,0,0
+1,East Anglian Region,10-20,0-35,90,0,0
+1,Yorkshire Region,0-10%,0-35,120,0,0
+1,East Midlands Region,80-90%,0-35,150,0,0
+1,Scotland,10-20,35-55,120,0,0
+1,Wales,20-30%,35-55,60,0,0
+1,South East Region,10-20,0-35,60,0,0
+1,South West Region,40-50%,0-35,60,0,0
+1,South Region,80-90%,0-35,60,0,0
+1,London Region,30-40%,35-55,150,0,0
+1,East Midlands Region,40-50%,0-35,60,0,0
+1,West Midlands Region,0-10%,0-35,60,0,0
+1,Scotland,20-30%,0-35,180,0,0
+1,London Region,10-20,0-35,120,0,0
+1,East Midlands Region,10-20,0-35,120,0,0
+1,East Midlands Region,80-90%,0-35,120,0,0
+1,North Western Region,10-20,0-35,180,0,0
+1,Yorkshire Region,0-10%,0-35,240,0,0
+1,London Region,10-20,0-35,70,0,0
+1,South East Region,50-60%,35-55,60,0,0
+1,West Midlands Region,20-30%,0-35,60,0,0
+1,South Region,10-20,0-35,60,0,0
+1,North Region,40-50%,0-35,120,0,0
+1,Scotland,20-30%,35-55,60,0,0
+1,East Midlands Region,10-20,0-35,60,0,0
+1,West Midlands Region,20-30%,35-55,120,0,0
+1,North Western Region,20-30%,0-35,90,0,0
+1,Scotland,60-70%,0-35,60,0,0
+1,East Midlands Region,40-50%,0-35,120,0,0
+1,Yorkshire Region,40-50%,0-35,30,0,0
+1,North Western Region,20-30%,35-55,60,0,0
+1,West Midlands Region,40-50%,0-35,120,0,0
+1,Scotland,0-10%,0-35,120,0,0
+1,South Region,20-30%,0-35,60,0,0
+1,North Western Region,10-20,0-35,270,0,0
+1,Wales,80-90%,0-35,210,0,0
+1,East Anglian Region,70-80%,35-55,60,0,0
+1,Scotland,20-30%,0-35,60,0,0
+1,Ireland,60-70%,0-35,150,0,0
+1,Scotland,40-50%,0-35,60,0,0
+1,London Region,40-50%,35-55,90,0,0
+1,West Midlands Region,40-50%,0-35,60,0,0
+1,South Region,50-60%,0-35,60,0,0
+1,London Region,80-90%,0-35,90,0,0
+1,South Region,20-30%,0-35,60,0,0
+1,Yorkshire Region,20-30%,0-35,150,0,0
+1,North Region,40-50%,0-35,30,0,0
+1,North Western Region,70-80%,0-35,30,0,0
+1,London Region,70-80%,0-35,60,0,0
+1,South Region,90-100%,0-35,120,0,0
+1,London Region,10-20,35-55,60,0,0
+1,Wales,20-30%,0-35,120,0,0
+1,Scotland,30-40%,0-35,60,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,South West Region,10-20,35-55,30,0,0
+1,Wales,10-20,35-55,60,0,0
+1,Wales,70-80%,0-35,120,0,0
+1,South East Region,60-70%,0-35,60,0,0
+1,East Anglian Region,70-80%,35-55,60,0,0
+1,South West Region,10-20,35-55,60,0,0
+1,East Anglian Region,30-40%,0-35,60,0,0
+1,South East Region,20-30%,35-55,60,0,0
+1,North Western Region,0-10%,0-35,90,0,0
+1,East Midlands Region,10-20,0-35,120,0,0
+1,South Region,40-50%,35-55,90,0,0
+1,East Midlands Region,70-80%,0-35,120,0,0
+1,Scotland,50-60%,35-55,120,0,0
+1,North Western Region,30-40%,35-55,120,0,0
+1,London Region,30-40%,0-35,60,0,0
+1,East Anglian Region,40-50%,35-55,90,0,0
+1,East Anglian Region,30-40%,0-35,90,0,0
+1,South East Region,50-60%,0-35,60,0,0
+1,West Midlands Region,20-30%,0-35,60,0,0
+1,East Anglian Region,10-20,0-35,60,0,0
+1,South Region,80-90%,0-35,120,0,0
+1,North Western Region,10-20,0-35,60,0,0
+1,London Region,30-40%,0-35,120,0,0
+1,London Region,80-90%,0-35,60,0,0
+1,South East Region,30-40%,0-35,120,0,0
+1,Yorkshire Region,0-10%,0-35,60,0,0
+1,Ireland,80-90%,0-35,160,0,0
+1,South Region,50-60%,0-35,120,0,0
+1,North Western Region,10-20,0-35,60,0,0
+1,North Western Region,30-40%,35-55,60,0,0
+1,Wales,30-40%,0-35,60,0,0
+1,South Region,40-50%,35-55,30,0,0
+1,East Anglian Region,20-30%,0-35,240,0,0
+1,Wales,10-20,0-35,60,0,0
+1,East Midlands Region,0-10%,0-35,60,0,0
+1,South Region,40-50%,0-35,120,0,0
+1,East Anglian Region,30-40%,0-35,60,0,0
+1,South East Region,50-60%,0-35,90,0,0
+1,Scotland,40-50%,35-55,60,0,0
+1,London Region,70-80%,0-35,30,0,0
+1,Scotland,40-50%,0-35,60,0,0
+1,Scotland,0-10%,0-35,90,0,0
+1,Yorkshire Region,0-10%,35-55,30,0,0
+1,South West Region,20-30%,0-35,120,0,0
+1,Yorkshire Region,10-20,0-35,240,0,0
+1,London Region,10-20,0-35,45,0,0
+1,West Midlands Region,60-70%,0-35,60,0,0
+1,East Anglian Region,50-60%,0-35,30,0,0
+1,West Midlands Region,50-60%,0-35,60,0,0
+1,East Anglian Region,90-100%,0-35,180,0,0
+1,North Western Region,10-20,0-35,210,0,0
+1,Ireland,60-70%,0-35,150,0,0
+1,West Midlands Region,40-50%,0-35,240,0,0
+1,Scotland,20-30%,35-55,90,0,0
+1,Yorkshire Region,20-30%,0-35,120,0,0
+1,East Midlands Region,10-20,0-35,60,0,0
+1,South West Region,20-30%,0-35,30,0,0
+1,East Anglian Region,70-80%,0-35,60,0,0
+1,South Region,60-70%,0-35,90,0,0
+1,East Anglian Region,50-60%,0-35,60,0,0
+1,North Western Region,50-60%,35-55,90,0,0
+1,South West Region,30-40%,0-35,60,0,0
+1,West Midlands Region,60-70%,0-35,90,0,0
+1,London Region,30-40%,0-35,90,0,0
+1,East Anglian Region,10-20,0-35,90,0,0
+1,South Region,10-20,0-35,60,0,0
+1,London Region,0-10%,35-55,60,0,0
+1,South East Region,60-70%,35-55,60,0,0
+1,East Midlands Region,20-30%,0-35,180,0,0
+1,West Midlands Region,10-20,0-35,120,0,0
+1,Scotland,30-40%,35-55,60,0,0
+1,East Midlands Region,80-90%,0-35,30,0,0
+1,Scotland,90-100%,35-55,60,0,0
+1,South Region,90-100%,0-35,30,0,0
+1,South Region,80-90%,35-55,120,0,0
+1,East Anglian Region,30-40%,0-35,60,0,0
+1,East Anglian Region,90-100%,0-35,180,0,0
+1,London Region,10-20,35-55,60,0,0
+1,East Anglian Region,10-20,0-35,120,0,0
+1,South East Region,30-40%,0-35,120,0,0
+1,South Region,60-70%,0-35,60,0,0
+1,South Region,50-60%,35-55,180,0,0
+1,London Region,30-40%,0-35,120,0,0
+1,Scotland,0-10%,0-35,60,0,0
+1,Wales,70-80%,0-35,90,0,0
+1,North Western Region,50-60%,35-55,45,0,0
+1,Scotland,20-30%,0-35,90,0,0
+1,London Region,10-20,0-35,120,0,0
+1,North Western Region,30-40%,35-55,90,0,0
+1,Scotland,40-50%,0-35,30,0,0
+1,South Region,90-100%,0-35,30,0,0
+1,South West Region,30-40%,0-35,60,0,0
