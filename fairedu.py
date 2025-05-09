@@ -12,8 +12,6 @@ import warnings
 import sys
 
 sys.path.append(os.path.abspath('..'))
-from numpy.random import seed
-from sklearn import preprocessing
 from sklearn.preprocessing import MinMaxScaler
 from sklearn import linear_model
 from sklearn.metrics import r2_score
@@ -22,11 +20,11 @@ import statsmodels.api as sm
 import copy
 
 # dataset_name = sys.argv[1]
-dataset_name = 'student_oulad'  # student_dropout, student_oulad student_performance
+dataset_name = 'student_oulad'  # student_dropout, student_oulad student_performance DNU
 dataset_folder = '/home/ad/m4do/proj/fairedu_plus/original_dataset'
 
 np.random.seed(13)
-train_dataset_path = os.path.join(dataset_folder, dataset_name, 'llm_no_8files', 'merged_output.csv') # ctgan_no_8files
+train_dataset_path = os.path.join(dataset_folder, dataset_name, 'llm_8_files', 'merged_output.csv') # ctgan_no_8files
 test_dataset_path = os.path.join(dataset_folder, dataset_name, f'test_{dataset_name}.csv')
 
 if 'adult' in train_dataset_path:
@@ -99,6 +97,13 @@ elif 'student_oulad' in train_dataset_path:
     dataset_orig_test = pd.read_csv(test_dataset_path)
 
     dataset_orig_train = dataset_orig_train.dropna()
+
+    train_dataset_path_2 = os.path.join(dataset_folder, dataset_name, 'llm_no_8files',
+                                        'train_student_oulad.csv')  # ctgan_no_8files
+    dataset_orig_train_v2 = pd.read_csv(train_dataset_path_2)
+    dataset_orig_train_v2 = dataset_orig_train_v2.dropna()
+
+
 
     # Drop NULL values
     # dataset_orig = dataset_orig.dropna(axis=0, how='any')
@@ -233,6 +238,9 @@ elif dataset_name == 'student_dropout':
     dataset_orig_train = pd.read_csv(train_dataset_path)
     dataset_orig_test = pd.read_csv(test_dataset_path)
 
+
+    dataset_orig_train = dataset_orig_train.dropna()
+
     # Drop NULL values
     # dataset_orig = dataset_orig.dropna()
 
@@ -295,12 +303,18 @@ elif dataset_name == 'DNU':
     dataset_orig_train = pd.read_csv(train_dataset_path)
     dataset_orig_test = pd.read_csv(test_dataset_path)
 
+    dataset_orig_train = dataset_orig_train.dropna()
+
     from sklearn.preprocessing import MinMaxScaler
+    mean = dataset_orig_train.loc[:, "Probability"].mean()
+    dataset_orig_train['Probability'] = np.where(dataset_orig_train['Probability'] >= mean, 1, 0)
 
     scaler = MinMaxScaler()
 
     dataset_orig_train = pd.DataFrame(scaler.fit_transform(dataset_orig_train), columns=dataset_orig_train.columns)
     dataset_orig_test = pd.DataFrame(scaler.fit_transform(dataset_orig_test), columns=dataset_orig_test.columns)
+
+
 
     protected_attributes = ['gender', 'age', 'birthplace']
 
@@ -341,7 +355,8 @@ if __name__ == '__main__':
     while (index <= iterations):
         with warnings.catch_warnings():
             warnings.simplefilter('error', RuntimeWarning)
-            try:
+            # try:
+            if True:
                 for k in range(iterations):
                     print('------the {}/{}th turn------'.format(k, iterations))
                     start_time = time.time()
@@ -521,9 +536,9 @@ if __name__ == '__main__':
                     current_running_time += current_training_time
                     running_time.append(current_running_time)
                     index = index + 1
-            except RuntimeWarning as e:
-                print(e)
-                continue
+            # except RuntimeWarning as e:
+            #     print(e)
+            #     continue
 
     for clf_name in aod_b.keys():
         print(f'\n\nRESULT FROM: {clf_name} model:')

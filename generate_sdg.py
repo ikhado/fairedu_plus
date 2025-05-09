@@ -4,15 +4,34 @@ import pandas as pd
 
 from ctgan import CTGAN
 
-from utils import merge_csv_files
+from utils import merge_csv_files, new_DNU_COLUMNS
 from sdgx.utils import download_demo_data
 from sdgx.data_models.metadata import Metadata
 from sdgx.models.LLM.single_table.gpt import SingleTableGPTModel
+import numpy as np
 
 CONSTANT_CTGAN = 'CTGAN'
 CONSTANT_LLM = 'LLM'
 
 
+def preprocess_student_performance(data_frame):
+    data_frame['sex'] = np.where(data_frame['sex'] == 'M', 1, 0)
+    data_frame['health'] = np.where(data_frame['health'] >= 4, 1, 0)
+
+    ## Make goal column binary
+    mean = data_frame.loc[:, "Probability"].mean()
+    data_frame['Probability'] = np.where(data_frame['Probability'] >= mean, 1, 0)
+    return data_frame
+
+
+def preprocess_student_oulad(data_frame):
+    # todo provide preprocess_student_oulad here
+    return data_frame
+
+
+def preprocess_student_dropout(data_frame):
+    # todo provide preprocess_student_oulad here
+    return data_frame
 
 
 def generate_by_ctgan(real_data, num_rows):
@@ -25,9 +44,16 @@ def generate_by_ctgan(real_data, num_rows):
     return synthetic_data
 
 
+import pandas as pd
+from typing import Iterable, Optional
+
+
 def generate_by_llm(real_data, num_rows):
+    if num_rows <= 0:
+        return None
     OPEN_AI_BASE = "https://api.openai.com/v1/"
     OPEN_AI_KEY = os.getenv('OPENAI_API_KEY')
+    # real_data = multiply_columns_by_10(csv_in=real_data, csv_out=None)
 
     metadata = Metadata.from_dataframe(real_data)
 
@@ -46,9 +72,11 @@ def generate_sdg(file_dict, path_8_files, generator=CONSTANT_LLM, sensitive_colu
     for curr_file in file_dict:
         path = curr_file['file_name']
         expected_value = curr_file['expected_value']
+        if expected_value == 0:
+            continue
 
         current_path = os.path.join(path_8_files, path)
-        current_df = pd.read_csv(current_path)
+        current_df = pd.read_csv(current_path, encoding='utf-8')
 
         print(f"File: {path}")
         print(f"Length: {len(current_df)}")
@@ -63,7 +91,12 @@ def generate_sdg(file_dict, path_8_files, generator=CONSTANT_LLM, sensitive_colu
         if generator == CONSTANT_CTGAN:
             sampled_data = generate_by_ctgan(real_data=current_df, num_rows=expected_value - len(current_df))
         elif generator == CONSTANT_LLM:
+            current_columns = current_df.columns.tolist()
+            if 'dnu' in path_8_files.lower():
+                current_df.columns = new_DNU_COLUMNS
             sampled_data = generate_by_llm(real_data=current_df, num_rows=expected_value - len(current_df))
+            if sampled_data is not None:
+                sampled_data.columns = current_columns
 
         if sampled_data is None:
             continue
@@ -77,10 +110,10 @@ def generate_sdg(file_dict, path_8_files, generator=CONSTANT_LLM, sensitive_colu
 
 
 if __name__ == "__main__":
-    dataset_name = 'student_performance'  # student_dropout, student_oulad student_performance
+    dataset_name = 'student_performance'  # student_dropout, student_oulad student_performance, DNU
     original_dataset_path = './original_dataset'
     generated_dataset_path = './generated_dataset'
-    generator = CONSTANT_LLM
+    generator = CONSTANT_CTGAN
 
     if generator == CONSTANT_LLM:
         path_to_8_files = os.path.join(original_dataset_path, dataset_name, 'llm_8_files')
@@ -89,9 +122,9 @@ if __name__ == "__main__":
         path_to_8_files = os.path.join(original_dataset_path, dataset_name, '8_files')
         path_to_no_8_files = os.path.join(original_dataset_path, dataset_name, 'ctgan_no_8files')
 
-    is_run_splitt_file = False
+    is_run_splitt_file = True
 
-    sensitive_columns = ['sex', 'health']
+    sensitive_columns = ['sex', 'health', None]
     output_column = 'Probability'
 
     student_performance_path_dict = [
@@ -114,7 +147,7 @@ if __name__ == "__main__":
     data_infor_dict = student_performance_path_dict
 
     if dataset_name == 'student_oulad':
-        sensitive_columns = ['gender', 'disability']
+        sensitive_columns = ['gender', 'disability', None]
         output_column = 'Probability'
 
         data_infor_dict = [
@@ -135,7 +168,7 @@ if __name__ == "__main__":
             ]
 
     if dataset_name == 'student_dropout':
-        sensitive_columns = ['Gender', 'Debtor']
+        sensitive_columns = ['Gender', 'Debtor', None]
         output_column = 'Probability'
 
         data_infor_dict = [
@@ -155,16 +188,46 @@ if __name__ == "__main__":
                  "expected_value": sum(item["expected_value"] for item in data_infor_dict)},
             ]
 
+    if dataset_name == 'DNU':
+        sensitive_columns = ['gender', 'age', 'birthplace']
+        output_column = 'Probability'
+
+        data_infor_dict = [
+            {"file_name": "gender_0_age_0_birthplace_0_Probability_0.csv", "expected_value": 0},
+            {"file_name": "gender_0_age_0_birthplace_0_Probability_1.csv", "expected_value": 23},
+            {"file_name": "gender_0_age_0_birthplace_1_Probability_0.csv", "expected_value": 0},
+            {"file_name": "gender_0_age_0_birthplace_1_Probability_1.csv", "expected_value": 5},
+            {"file_name": "gender_0_age_1_birthplace_0_Probability_0.csv", "expected_value": 5},
+            {"file_name": "gender_0_age_1_birthplace_0_Probability_1.csv", "expected_value": 54},
+            {"file_name": "gender_0_age_1_birthplace_1_Probability_0.csv", "expected_value": 5},
+            {"file_name": "gender_0_age_1_birthplace_1_Probability_1.csv", "expected_value": 54},
+
+            {"file_name": "gender_1_age_0_birthplace_0_Probability_0.csv", "expected_value": 53},
+            {"file_name": "gender_1_age_0_birthplace_0_Probability_1.csv", "expected_value": 572},
+            {"file_name": "gender_1_age_0_birthplace_1_Probability_0.csv", "expected_value": 8},
+            {"file_name": "gender_1_age_0_birthplace_1_Probability_1.csv", "expected_value": 86},
+            {"file_name": "gender_1_age_1_birthplace_0_Probability_0.csv", "expected_value": 38},
+            {"file_name": "gender_1_age_1_birthplace_0_Probability_1.csv", "expected_value": 410},
+            {"file_name": "gender_1_age_1_birthplace_1_Probability_0.csv", "expected_value": 20},
+            {"file_name": "gender_1_age_1_birthplace_1_Probability_1.csv", "expected_value": 216},
+        ]
+
+        if not is_run_splitt_file:
+            data_infor_dict = [
+                {"file_name": "train_DNU.csv",
+                 "expected_value": sum(item["expected_value"] for item in data_infor_dict)},
+            ]
+
     if is_run_splitt_file:
         generate_sdg(file_dict=data_infor_dict, path_8_files=path_to_8_files, generator=generator,
                      sensitive_column_1=sensitive_columns[0], sensitive_column_2=sensitive_columns[1],
                      output_column=output_column, is_run_splitt_file=is_run_splitt_file)
 
         # merge all files within path_to_8_files folder into "merged_output.csv" file
-        merge_csv_files(folder_path=path_to_8_files, output_file="merged_output.csv")
+        # merge_csv_files(folder_path=path_to_8_files, output_file="merged_output.csv")
     else:
         generate_sdg(file_dict=data_infor_dict, path_8_files=path_to_no_8_files, generator=generator,
                      sensitive_column_1=sensitive_columns[0], sensitive_column_2=sensitive_columns[1],
-                     output_column=output_column, is_run_splitt_file=is_run_splitt_file)
+                     output_column=output_column, is_run_splitt_file=is_run_splitt_file, sensitive_column_3=sensitive_columns[2])
         # merge all files within path_to_8_files folder into "merged_output.csv" file
-        merge_csv_files(folder_path=path_to_no_8_files, output_file="merged_output.csv")
+        # merge_csv_files(folder_path=path_to_no_8_files, output_file="merged_output.csv")
