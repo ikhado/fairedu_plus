@@ -148,5 +148,4 @@ This work builds upon the following open-source projects:
 
 This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for full terms.
 
-Contributions are welcome — please open an issue to discuss a change before submitting a pull
-request, and ensure new code follows the existing style of the affected module.
+Contributions are welcome.
