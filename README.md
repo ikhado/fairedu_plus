@@ -1,4 +1,4 @@
-# FaireduPlus
+# FaireduSDG
 
 Enhancing Intersectional Fairness in Educational Machine Learning through Subgroup-Aware Synthetic Data Generation
 
@@ -17,7 +17,7 @@ Enhancing Intersectional Fairness in Educational Machine Learning through Subgro
 
 ## Description
 
-FaireduPlus studies **intersectional fairness** (fairness across combinations of protected
+FaireduSDG studies **intersectional fairness** (fairness across combinations of protected
 attributes, e.g. gender × disability) in ML models trained on educational data. It combines two
 stages:
 
@@ -138,13 +138,6 @@ python fairedu_plus.py --dataset-name student_oulad --dataset-folder ./dataset
 5. **Export** — before/after rows per classifier are written to CSV/Excel/pickle
    (`save_results_to_file`).
 
-## Citations
-
-If you use this work, please cite the SSRN preprint:
-```
-SSRN Scholarly Paper 5290738. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290738
-```
-
 ## Acknowledgements
 
 This work builds upon the following open-source projects:
@@ -153,5 +146,7 @@ This work builds upon the following open-source projects:
 
 ## License & Contribution Guidelines
 
-No license file is currently included in this repository; contact the authors before reuse or
-redistribution. Contributions and issue reports are welcome via pull request.
+This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for full terms.
+
+Contributions are welcome — please open an issue to discuss a change before submitting a pull
+request, and ensure new code follows the existing style of the affected module.
