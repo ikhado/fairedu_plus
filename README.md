@@ -48,7 +48,7 @@ Supported datasets (`--dataset-name`):
 | `student_dropout` | `Gender`, `Debtor` | Predicting student dropout/academic success |
 | `student_oulad` | `gender`, `disability` | Open University Learning Analytics Dataset (OULAD) |
 | `student_performance` | `sex`, `health` | Secondary school student performance (SP) |
-| `DNU` | `gender`, `age`, `birthplace` | Da Nang University student outcomes dataset |
+| `DNU` | `gender`, `age`, `birthplace` | Dai Nam University student outcomes dataset |
 
 ### Third-party data sources
 
